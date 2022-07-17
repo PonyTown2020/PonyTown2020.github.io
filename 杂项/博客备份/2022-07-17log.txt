@@ -1,0 +1,1180 @@
+开始运行备份命令——————————————
+Sun Jul 17 15:20:37 2022······备份进行中
+[32mINFO [39m Validating config
+[32mINFO [39m Deleted database.
+[32mINFO [39m Deleted public folder.
+[32mINFO [39m Validating config
+[32mINFO [39m Start processing
+[32mINFO [39m hexo-blog-encrypt: encrypting "加密文档1" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "用python写个颜值评分器筛选最美主播" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m 
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+[32mINFO [39m Files loaded in [36m15 s[39m
+[32mINFO [39m neat the html: about/index.html [ 25.42% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/9.3-tutorial_py_hdr/index.html [ 17.21% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/9.2-tutorial_py_inpainting/index.html [ 22.80% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/9.1-tutorial_py_non_local_means/index.html [ 17.95% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.3.2-tutorial_py_kmeans_opencv/index.html [ 16.32% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.3.1-tutorial_py_kmeans_understanding/index.html [ 23.52% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.3-tutorial_py_kmeans_index/index.html [ 27.52% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.2.2-tutorial_py_svm_opencv/index.html [ 16.37% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.2.1-tutorial_py_svm_basics/index.html [ 21.89% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.2-tutorial_py_svm_index/index.html [ 27.51% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.1.2-tutorial_py_knn_opencv/index.html [ 18.64% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.1.1-tutorial_py_knn_understanding/index.html [ 18.93% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.1-tutorial_py_knn_index/index.html [ 27.61% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/7.4-tutorial_py_depthmap/index.html [ 23.26% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/7.3-tutorial_py_epipolar_geometry/index.html [ 17.56% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/7.2-tutorial_py_pose/index.html [ 16.95% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/7.1-tutorial_py_calibration/index.html [ 16.00% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/6.3-tutorial_py_bg_subtraction/index.html [ 18.69% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/6.2-tutorial_py_lucas_kanade/index.html [ 15.88% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/6.1-tutorial_py_meanshift/index.html [ 16.21% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.9-tutorial_py_matcher/index.html [ 15.32% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.8-tutorial_py_orb/index.html [ 22.47% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.7-tutorial_py_brief/index.html [ 23.10% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.6-tutorial_py_fast/index.html [ 20.14% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.5-tutorial_py_surf_intro/index.html [ 18.24% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.4-tutorial_py_sift_intro/index.html [ 20.61% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.3-tutorial_py_shi_tomasi/index.html [ 23.34% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.2-tutorial_py_harris/index.html [ 18.86% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.10-tutorial_py_feature_homography/index.html [ 19.36% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.1-tutorial_py_features_meaning/index.html [ 24.41% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.9-tutorial_py_contours/index.html [ 8.20% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.8-tutorial_py_image_pyramids/index.html [ 18.77% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.7-tutorial_py_canny/index.html [ 21.81% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.6-tutorial_py_gradients/index.html [ 19.64% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.5-tutorial_py_morphological_ops/index.html [ 17.16% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.4-tutorial_py_filtering/index.html [ 18.91% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.3-tutorial_py_thresholding/index.html [ 14.12% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.2-tutorial_py_geometric_transformations/index.html [ 16.56% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.16-tutorial_py_grabcut/index.html [ 18.95% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.15-tutorial_py_watershed_segmentation/index.html [ 20.13% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.14-tutorial_py_hough_circle/index.html [ 23.12% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.13-tutorial_py_hough_line/index.html [ 17.33% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.12-tutorial_py_template_matching/index.html [ 18.08% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.11-tutorial_py_image_transforms/index.html [ 12.60% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.10-tutorial_py_histograms/index.html [ 9.66% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.1-tutorial_py_colorspaces/index.html [ 20.20% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/3.3-tutorial_py_optimization/index.html [ 18.19% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/3.2-tutorial_py_image_arithmetics/index.html [ 19.97% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/3.1-tutorial_py_basic_ops/index.html [ 15.43% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/2.5-tutorial_py_trackbar/index.html [ 21.24% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/2.4-tutorial_py_mouse_handling/index.html [ 18.95% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/2.3-tutorial_py_drawing_functions/index.html [ 19.24% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/2.2-tutorial_py_video_display/index.html [ 17.82% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/2.1-tutorial_py_image_display/index.html [ 17.70% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/11.1-tutorial_py_OpenCV-Python/index.html [ 16.74% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/10.1-tutorial_py_face_detection/index.html [ 21.18% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/1.2-tutorial_py_setup_in_ubuntu/index.html [ 18.44% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/1.1-tutorial_py_intro/index.html [ 24.00% saved]
+[32mINFO [39m neat the html: 2022/07/17/博客加密文档/index.html [ 26.75% saved]
+[32mINFO [39m neat the html: 2022/07/15/如何配置多个邮箱的ssh-key，既能使用github，又能使用gitlab-Windows下配置多个git账号的SSH-Key/index.html [ 14.31% saved]
+[32mINFO [39m neat the html: 2022/07/15/Selenium自动化测试实战web高级测试/index.html [ 26.67% saved]
+[32mINFO [39m neat the html: 2022/07/15/测试-霍格沃兹-初级/index.html [ 3.29% saved]
+[32mINFO [39m neat the html: 2022/07/15/Vm安装ubuntu以及配置/index.html [ 15.15% saved]
+[32mINFO [39m neat the html: 2022/06/08/Windows桌面程序自动化控制之uiautomation模块全面讲解/index.html [ 2.51% saved]
+[32mINFO [39m neat the html: 2022/01/22/Python中内置的日志模块logging用法详解/index.html [ 5.77% saved]
+[32mINFO [39m neat the html: 2021/11/18/英文文本分词之工具NLTK/index.html [ 20.38% saved]
+[32mINFO [39m neat the html: 2021/11/16/NET-core在vscode配置/index.html [ 14.72% saved]
+[32mINFO [39m neat the html: 2021/11/13/redis入门/index.html [ 15.04% saved]
+[32mINFO [39m neat the html: 2021/11/12/用python写个颜值评分器筛选最美主播/index.html [ 8.11% saved]
+[32mINFO [39m neat the html: 2021/11/11/win永久激活数字证书/index.html [ 18.83% saved]
+[32mINFO [39m neat the html: 2021/11/11/Windows上使用bat实现备份一个月内的数据库数据到文件/index.html [ 9.04% saved]
+[32mINFO [39m neat the html: 2021/11/11/bat批处理实现守护进程-Windows使用bat批处理实现守护进程脚本分享/index.html [ 14.04% saved]
+[32mINFO [39m neat the html: 2021/11/10/Typora使用了0号显卡，怀疑是导致其卡顿的原因Typora启动加速/index.html [ 21.62% saved]
+[32mINFO [39m neat the html: 2021/11/10/更改Chrome浏览器安装位置的方法谷歌mklink/index.html [ 23.05% saved]
+[32mINFO [39m neat the html: 2021/11/10/NodeJs-的安装及配置环境变量/index.html [ 16.99% saved]
+[32mINFO [39m neat the html: 2021/11/10/python安装教程（windows）-知乎/index.html [ 23.79% saved]
+[32mINFO [39m neat the html: 2021/11/10/Windows-Terminal-完美配置-PowerShell-7-1-知乎/index.html [ 4.82% saved]
+[32mINFO [39m neat the html: 2021/11/10/新电脑还原hexo博客/index.html [ 9.73% saved]
+[32mINFO [39m neat the html: 2021/11/10/启动多个应用程序并使程序最小化/index.html [ 21.78% saved]
+[32mINFO [39m neat the html: 2021/11/10/Git安装教程（2-30-1详细教程）/index.html [ 19.98% saved]
+[32mINFO [39m neat the html: 2021/11/10/V2Ray路由器高级功能配置丨使用教程/index.html [ 16.56% saved]
+[32mINFO [39m neat the html: 2021/11/10/WPS专业版下载，激活密钥，永久激活无广告，无弹窗，企业版专用【高速下载】/index.html [ 24.66% saved]
+[32mINFO [39m neat the html: 2021/11/10/test2/index.html [ 24.06% saved]
+[32mINFO [39m neat the html: 2021/11/10/test/index.html [ 27.83% saved]
+[32mINFO [39m neat the html: 2021/11/03/python-requests之-基础用法/index.html [ 7.80% saved]
+[32mINFO [39m neat the html: 2021/10/25/16-如何在csv文件中跳过第一行的python代码/index.html [ 16.01% saved]
+[32mINFO [39m neat the html: 2021/10/24/教程-免费域名注册及域名解析-freenom-cloudflare/index.html [ 17.79% saved]
+[32mINFO [39m neat the html: 2021/10/24/Web前端：hexo-github搭建个人博客，免费！/index.html [ 11.87% saved]
+[32mINFO [39m neat the html: 2021/10/23/Pyinstaller打包Python代码为-exe，多个-py文件和多模块打包-Ethan的博客-程序员宅基地-pyinstaller打包多个py文件/index.html [ 24.15% saved]
+[32mINFO [39m neat the html: 2021/10/23/Python3读取写入json的中文乱码问题-SeniorZ的点滴记录-程序员信息网/index.html [ 22.92% saved]
+[32mINFO [39m neat the html: 2021/10/21/运行bat时隐藏cmd窗口/index.html [ 17.07% saved]
+[32mINFO [39m neat the html: 2021/10/21/windows中gitbash执行命令之前显示时间/index.html [ 11.83% saved]
+[32mINFO [39m neat the html: 2021/10/21/常用Git常用命令清单与配置/index.html [ 6.04% saved]
+[32mINFO [39m neat the html: 2021/10/21/hexo部署问题：Error spawn git ENOENT hexo报 Error spawn git ENOENT错误的解决方法/index.html [ 12.45% saved]
+[32mINFO [39m neat the html: 2021/10/20/重复视频图片整理/index.html [ 5.73% saved]
+[32mINFO [39m neat the html: 2021/10/20/禁止软件联网，禁止文件夹访问网络/index.html [ 20.75% saved]
+[32mINFO [39m neat the html: 2021/10/20/Anaconda-VSCode-配置python环境/index.html [ 5.57% saved]
+[32mINFO [39m neat the html: 2021/10/20/moviepy在win上找不到ImageMagick/index.html [ 23.81% saved]
+[32mINFO [39m neat the html: 2021/10/20/python去除水印-程序员的人生A/index.html [ 19.16% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频/index.html [ 2.94% saved]
+[32mINFO [39m neat the html: 2021/10/12/正则表达式/index.html [ 10.67% saved]
+[32mINFO [39m neat the html: 2021/09/30/使用bat命令打开cmd，并打开某目录-并执行命令1-并执行命令2-并执行命令3···/index.html [ 24.12% saved]
+[32mINFO [39m neat the html: 2021/09/25/张至顺真人讲解《炁體源流》/index.html [ 8.78% saved]
+[32mINFO [39m neat the html: 2021/09/25/Markdown转换word（两种方法，实现两者互转）/index.html [ 20.85% saved]
+[32mINFO [39m neat the html: 2021/09/17/gitbash中npm换源与加速下载方法 ## Git 常用操作命令/index.html [ 9.73% saved]
+[32mINFO [39m neat the html: 2021/09/16/Sublime配置/index.html [ 28.14% saved]
+[32mINFO [39m neat the html: 2021/09/16/MUyangit的Vscode设置/index.html [ 21.51% saved]
+[32mINFO [39m neat the html: 2021/09/09/2021年-github被墙最新hosts-每日更新/index.html [ 25.66% saved]
+[32mINFO [39m neat the html: 2021/09/09/auto-js-精品基础教程-2021最新版-auto-js教程/index.html [ 16.17% saved]
+[32mINFO [39m neat the html: 2021/09/09/5款最佳正则表达式编辑调试器/index.html [ 18.67% saved]
+[32mINFO [39m neat the html: 2021/09/09/查看网络连接及其发起程序（进程）的方法------测试是否又成为肉鸡的可能性，检测自己的局域网IP，尝试用端口号查询进程名 非原创/index.html [ 23.86% saved]
+[32mINFO [39m neat the html: 2021/09/09/ping-IP-带时间戳循环显示并写入日志（windos版-linux版）/index.html [ 12.43% saved]
+[32mINFO [39m neat the html: 2021/09/08/正则表达式编辑工具-JGsoft-RegexBuddy-v4-10免注册汉化版/index.html [ 20.81% saved]
+[32mINFO [39m neat the html: 2021/09/08/URL-Schemes-汇总-qq-tim-支付宝/index.html [ 13.92% saved]
+[32mINFO [39m neat the html: 2021/09/06/Typora-PicGO-Gitee图床配置/index.html [ 18.15% saved]
+[32mINFO [39m neat the html: 2019/12/30/五分钟做出炫酷视频片头特效/index.html [ 25.70% saved]
+[32mINFO [39m neat the html: 2018/12/12/Hexo-Theme-Sakura/index.html [ 8.92% saved]
+[32mINFO [39m neat the html: archives/index.html [ 23.69% saved]
+[32mINFO [39m neat the html: archives/page/2/index.html [ 23.45% saved]
+[32mINFO [39m neat the html: archives/page/3/index.html [ 23.35% saved]
+[32mINFO [39m neat the html: archives/page/4/index.html [ 23.17% saved]
+[32mINFO [39m neat the html: archives/page/5/index.html [ 23.12% saved]
+[32mINFO [39m neat the html: archives/page/6/index.html [ 22.39% saved]
+[32mINFO [39m neat the html: archives/page/7/index.html [ 21.86% saved]
+[32mINFO [39m neat the html: archives/page/8/index.html [ 21.20% saved]
+[32mINFO [39m neat the html: archives/page/9/index.html [ 21.22% saved]
+[32mINFO [39m neat the html: archives/page/10/index.html [ 22.01% saved]
+[32mINFO [39m neat the html: archives/page/11/index.html [ 21.09% saved]
+[32mINFO [39m neat the html: archives/page/12/index.html [ 23.31% saved]
+[32mINFO [39m neat the html: archives/2018/index.html [ 25.81% saved]
+[32mINFO [39m neat the html: archives/2018/12/index.html [ 25.81% saved]
+[32mINFO [39m neat the html: archives/2019/index.html [ 25.58% saved]
+[32mINFO [39m neat the html: archives/2019/12/index.html [ 25.58% saved]
+[32mINFO [39m neat the html: archives/2021/index.html [ 21.80% saved]
+[32mINFO [39m neat the html: archives/2021/page/2/index.html [ 22.01% saved]
+[32mINFO [39m neat the html: archives/2021/page/3/index.html [ 21.24% saved]
+[32mINFO [39m neat the html: archives/2021/page/4/index.html [ 21.76% saved]
+[32mINFO [39m neat the html: archives/2021/page/5/index.html [ 21.57% saved]
+[32mINFO [39m neat the html: archives/2021/09/index.html [ 21.53% saved]
+[32mINFO [39m neat the html: archives/2021/09/page/2/index.html [ 23.87% saved]
+[32mINFO [39m neat the html: archives/2021/10/index.html [ 21.67% saved]
+[32mINFO [39m neat the html: archives/2021/10/page/2/index.html [ 23.77% saved]
+[32mINFO [39m neat the html: archives/2021/11/index.html [ 22.04% saved]
+[32mINFO [39m neat the html: archives/2021/11/page/2/index.html [ 22.49% saved]
+[32mINFO [39m neat the html: archives/2022/index.html [ 23.65% saved]
+[32mINFO [39m neat the html: archives/2022/page/2/index.html [ 23.39% saved]
+[32mINFO [39m neat the html: archives/2022/page/3/index.html [ 23.28% saved]
+[32mINFO [39m neat the html: archives/2022/page/4/index.html [ 23.15% saved]
+[32mINFO [39m neat the html: archives/2022/page/5/index.html [ 23.22% saved]
+[32mINFO [39m neat the html: archives/2022/page/6/index.html [ 22.59% saved]
+[32mINFO [39m neat the html: archives/2022/page/7/index.html [ 23.71% saved]
+[32mINFO [39m neat the html: archives/2022/01/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: archives/2022/06/index.html [ 25.41% saved]
+[32mINFO [39m neat the html: archives/2022/07/index.html [ 23.62% saved]
+[32mINFO [39m neat the html: archives/2022/07/page/2/index.html [ 23.35% saved]
+[32mINFO [39m neat the html: archives/2022/07/page/3/index.html [ 23.24% saved]
+[32mINFO [39m neat the html: archives/2022/07/page/4/index.html [ 23.11% saved]
+[32mINFO [39m neat the html: archives/2022/07/page/5/index.html [ 23.17% saved]
+[32mINFO [39m neat the html: archives/2022/07/page/6/index.html [ 22.55% saved]
+[32mINFO [39m neat the html: archives/2022/07/page/7/index.html [ 24.52% saved]
+[32mINFO [39m neat the html: categories/技术/index.html [ 22.06% saved]
+[32mINFO [39m neat the html: categories/技术/page/2/index.html [ 21.17% saved]
+[32mINFO [39m neat the html: categories/技术/page/3/index.html [ 20.93% saved]
+[32mINFO [39m neat the html: categories/技术/page/4/index.html [ 21.59% saved]
+[32mINFO [39m neat the html: categories/技术/page/5/index.html [ 21.66% saved]
+[32mINFO [39m neat the html: categories/技术/page/6/index.html [ 22.00% saved]
+[32mINFO [39m neat the html: categories/生活/index.html [ 25.80% saved]
+[32mINFO [39m neat the html: categories/资源/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: tags/Anaconda/index.html [ 25.72% saved]
+[32mINFO [39m neat the html: tags/git/index.html [ 25.33% saved]
+[32mINFO [39m neat the html: tags/web/index.html [ 25.86% saved]
+[32mINFO [39m neat the html: tags/悦读/index.html [ 25.83% saved]
+[32mINFO [39m neat the html: tags/NET-Core/index.html [ 25.75% saved]
+[32mINFO [39m neat the html: tags/NodeJs/index.html [ 25.64% saved]
+[32mINFO [39m neat the html: tags/Typora/index.html [ 25.33% saved]
+[32mINFO [39m neat the html: tags/工具/index.html [ 24.69% saved]
+[32mINFO [39m neat the html: tags/Terminal/index.html [ 25.59% saved]
+[32mINFO [39m neat the html: tags/bat/index.html [ 25.42% saved]
+[32mINFO [39m neat the html: tags/python/index.html [ 25.65% saved]
+[32mINFO [39m neat the html: tags/图集/index.html [ 25.77% saved]
+[32mINFO [39m neat the html: tags/vbs/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: tags/hexo/index.html [ 25.74% saved]
+[32mINFO [39m neat the html: tags/Chrome/index.html [ 25.52% saved]
+[32mINFO [39m neat the html: tags/加密/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: tags/cmd/index.html [ 25.78% saved]
+[32mINFO [39m neat the html: index.html [ 26.15% saved]
+[32mINFO [39m neat the html: page/2/index.html [ 25.88% saved]
+[32mINFO [39m neat the html: page/3/index.html [ 25.68% saved]
+[32mINFO [39m neat the html: page/4/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: page/5/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: page/6/index.html [ 25.28% saved]
+[32mINFO [39m neat the html: page/7/index.html [ 25.52% saved]
+[32mINFO [39m neat the html: page/8/index.html [ 25.50% saved]
+[32mINFO [39m neat the html: page/9/index.html [ 25.33% saved]
+[32mINFO [39m neat the html: page/10/index.html [ 25.83% saved]
+[32mINFO [39m neat the html: page/11/index.html [ 24.36% saved]
+[32mINFO [39m neat the html: page/12/index.html [ 25.45% saved]
+[32mINFO [39m neat the html: 404.html [ 25.36% saved]
+[32mINFO [39m neat the html: tags/index.html [ 23.65% saved]
+[32mINFO [39m neat the html: categories/index.html [ 25.04% saved]
+[32mINFO [39m neat the html: links/index.html [ 26.37% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\MuyanGit\themes\fluid\source\css\fluid-extention.styl [ 30.24% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\MuyanGit\themes\fluid\source\css\gitalk.css [ 15.44% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\MuyanGit\themes\fluid\source\css\highlight-dark.styl [ 0.16% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\MuyanGit\themes\fluid\source\css\highlight.styl [ 0.08% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\MuyanGit\themes\fluid\source\css\main.styl [ 17.17% saved]
+[32mINFO [39m Generated: [35mabout/index.html[39m
+[32mINFO [39m Generated: [35marchives/index.html[39m
+[32mINFO [39m Generated: [35marchives/2018/index.html[39m
+[32mINFO [39m Generated: [35marchives/2018/12/index.html[39m
+[32mINFO [39m Generated: [35marchives/2019/12/index.html[39m
+[32mINFO [39m Generated: [35marchives/2019/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/09/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/10/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/11/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/01/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/06/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/index.html[39m
+[32mINFO [39m Generated: [35mtags/index.html[39m
+[32mINFO [39m Generated: [35mcategories/index.html[39m
+[32mINFO [39m Generated: [35mlinks/index.html[39m
+[32mINFO [39m Generated: [35m404.html[39m
+[32mINFO [39m Generated: [35mindex.html[39m
+[32mINFO [39m Generated: [35marchives/2021/page/2/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/2/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/11/page/2/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/09/page/2/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/10/page/2/index.html[39m
+[32mINFO [39m Generated: [35mpage/12/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/page/2/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/page/2/index.html[39m
+[32mINFO [39m Generated: [35mxml/local-search.xml[39m
+[32mINFO [39m Generated: [35mimg/avatar.png[39m
+[32mINFO [39m Generated: [35marchives/page/4/index.html[39m
+[32mINFO [39m Generated: [35mcss/hbe.style.css[39m
+[32mINFO [39m Generated: [35mlib/hbe.js[39m
+[32mINFO [39m Generated: [35marchives/page/6/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/3/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/5/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/7/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/11/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/page/4/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/8/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/page/5/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/page/3/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/9/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/10/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/12/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/page/5/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/page/3/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/page/4/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/page/7/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/page/3/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/page/6/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/page/6/index.html[39m
+[32mINFO [39m Generated: [35mcategories/资源/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/page/4/index.html[39m
+[32mINFO [39m Generated: [35mtags/git/index.html[39m
+[32mINFO [39m Generated: [35mtags/Anaconda/index.html[39m
+[32mINFO [39m Generated: [35mtags/web/index.html[39m
+[32mINFO [39m Generated: [35mtags/悦读/index.html[39m
+[32mINFO [39m Generated: [35mtags/Typora/index.html[39m
+[32mINFO [39m Generated: [35mtags/Terminal/index.html[39m
+[32mINFO [39m Generated: [35mtags/NodeJs/index.html[39m
+[32mINFO [39m Generated: [35mtags/工具/index.html[39m
+[32mINFO [39m Generated: [35mtags/bat/index.html[39m
+[32mINFO [39m Generated: [35mtags/图集/index.html[39m
+[32mINFO [39m Generated: [35mtags/python/index.html[39m
+[32mINFO [39m Generated: [35mtags/hexo/index.html[39m
+[32mINFO [39m Generated: [35mtags/Chrome/index.html[39m
+[32mINFO [39m Generated: [35mtags/加密/index.html[39m
+[32mINFO [39m Generated: [35mtags/vbs/index.html[39m
+[32mINFO [39m Generated: [35mtags/cmd/index.html[39m
+[32mINFO [39m Generated: [35mtags/NET-Core/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/page/7/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/page/5/index.html[39m
+[32mINFO [39m Generated: [35mcategories/生活/index.html[39m
+[32mINFO [39m Generated: [35mpage/5/index.html[39m
+[32mINFO [39m Generated: [35mpage/3/index.html[39m
+[32mINFO [39m Generated: [35mpage/2/index.html[39m
+[32mINFO [39m Generated: [35mpage/4/index.html[39m
+[32mINFO [39m Generated: [35mpage/8/index.html[39m
+[32mINFO [39m Generated: [35mpage/10/index.html[39m
+[32mINFO [39m Generated: [35mpage/11/index.html[39m
+[32mINFO [39m Generated: [35mpage/6/index.html[39m
+[32mINFO [39m Generated: [35mimg/loading.gif[39m
+[32mINFO [39m Generated: [35mimg/police_beian.png[39m
+[32mINFO [39m Generated: [35mpage/9/index.html[39m
+[32mINFO [39m Generated: [35mimg/fluid.png[39m
+[32mINFO [39m Generated: [35mpage/7/index.html[39m
+[32mINFO [39m Generated: [35mcategories/技术/index.html[39m
+[32mINFO [39m Generated: [35mcategories/技术/page/2/index.html[39m
+[32mINFO [39m Generated: [35mlocal-search.xml[39m
+[32mINFO [39m Generated: [35mjs/boot.js[39m
+[32mINFO [39m Generated: [35mjs/code-unfold.js[39m
+[32mINFO [39m Generated: [35mjs/color-schema.js[39m
+[32mINFO [39m Generated: [35mjs/img-lazyload.js[39m
+[32mINFO [39m Generated: [35mjs/events.js[39m
+[32mINFO [39m Generated: [35mjs/leancloud.js[39m
+[32mINFO [39m Generated: [35mjs/plugins.js[39m
+[32mINFO [39m Generated: [35mjs/utils.js[39m
+[32mINFO [39m Generated: [35mjs/local-search.js[39m
+[32mINFO [39m Generated: [35mcategories/技术/page/3/index.html[39m
+[32mINFO [39m Generated: [35mcategories/技术/page/4/index.html[39m
+[32mINFO [39m Generated: [35mcategories/技术/page/6/index.html[39m
+[32mINFO [39m Generated: [35mcategories/技术/page/5/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.1-tutorial_py_knn_index/index.html[39m
+[32mINFO [39m Generated: [35mcss/fluid-extention.css[39m
+[32mINFO [39m Generated: [35mcss/gitalk.css[39m
+[32mINFO [39m Generated: [35mcss/highlight-dark.css[39m
+[32mINFO [39m Generated: [35mcss/highlight.css[39m
+[32mINFO [39m Generated: [35mcss/main.css[39m
+[32mINFO [39m Generated: [35m2021/11/10/test/index.html[39m
+[32mINFO [39m Generated: [35m2019/12/30/五分钟做出炫酷视频片头特效/index.html[39m
+[32mINFO [39m Generated: [35m2018/12/12/Hexo-Theme-Sakura/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/16/Sublime配置/index.html[39m
+[32mINFO [39m Generated: [35m2022/06/08/Windows桌面程序自动化控制之uiautomation模块全面讲解/index.html[39m
+[32mINFO [39m Generated: [35m2022/01/22/Python中内置的日志模块logging用法详解/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/25/16-如何在csv文件中跳过第一行的python代码/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/15/Selenium自动化测试实战web高级测试/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/博客加密文档/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/18/英文文本分词之工具NLTK/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/16/NET-core在vscode配置/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/23/Pyinstaller打包Python代码为-exe，多个-py文件和多模块打包-Ethan的博客-程序员宅基地-pyinstaller打包多个py文件/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/12/用python写个颜值评分器筛选最美主播/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/24/教程-免费域名注册及域名解析-freenom-cloudflare/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/03/python-requests之-基础用法/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/13/redis入门/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/11/win永久激活数字证书/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/禁止软件联网，禁止文件夹访问网络/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/21/windows中gitbash执行命令之前显示时间/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/25/张至顺真人讲解《炁體源流》/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/17/gitbash中npm换源与加速下载方法 ## Git 常用操作命令/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/12/正则表达式/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/09/auto-js-精品基础教程-2021最新版-auto-js教程/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/08/正则表达式编辑工具-JGsoft-RegexBuddy-v4-10免注册汉化版/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/30/使用bat命令打开cmd，并打开某目录-并执行命令1-并执行命令2-并执行命令3···/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/9.3-tutorial_py_hdr/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.2.2-tutorial_py_svm_opencv/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/9.1-tutorial_py_non_local_means/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/06/Typora-PicGO-Gitee图床配置/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/9.2-tutorial_py_inpainting/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.3.1-tutorial_py_kmeans_understanding/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.3.2-tutorial_py_kmeans_opencv/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.1.2-tutorial_py_knn_opencv/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/6.3-tutorial_py_bg_subtraction/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/7.3-tutorial_py_epipolar_geometry/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.2.1-tutorial_py_svm_basics/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/7.4-tutorial_py_depthmap/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/6.2-tutorial_py_lucas_kanade/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/7.1-tutorial_py_calibration/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.8-tutorial_py_orb/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.1.1-tutorial_py_knn_understanding/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.3-tutorial_py_shi_tomasi/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.7-tutorial_py_brief/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.5-tutorial_py_surf_intro/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.10-tutorial_py_feature_homography/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.1-tutorial_py_features_meaning/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.4-tutorial_py_sift_intro/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.2-tutorial_py_harris/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.6-tutorial_py_gradients/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.6-tutorial_py_fast/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.8-tutorial_py_image_pyramids/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.4-tutorial_py_filtering/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/6.1-tutorial_py_meanshift/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.5-tutorial_py_morphological_ops/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.3-tutorial_py_thresholding/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.7-tutorial_py_canny/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.2-tutorial_py_geometric_transformations/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.12-tutorial_py_template_matching/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.15-tutorial_py_watershed_segmentation/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.9-tutorial_py_contours/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.16-tutorial_py_grabcut/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.14-tutorial_py_hough_circle/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.10-tutorial_py_histograms/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.11-tutorial_py_image_transforms/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.1-tutorial_py_colorspaces/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/3.3-tutorial_py_optimization/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/3.2-tutorial_py_image_arithmetics/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/3.1-tutorial_py_basic_ops/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/2.2-tutorial_py_video_display/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/2.5-tutorial_py_trackbar/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/2.3-tutorial_py_drawing_functions/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/1.2-tutorial_py_setup_in_ubuntu/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/15/如何配置多个邮箱的ssh-key，既能使用github，又能使用gitlab-Windows下配置多个git账号的SSH-Key/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/2.4-tutorial_py_mouse_handling/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/10.1-tutorial_py_face_detection/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/1.1-tutorial_py_intro/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/15/Vm安装ubuntu以及配置/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/11.1-tutorial_py_OpenCV-Python/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/11/Windows上使用bat实现备份一个月内的数据库数据到文件/index.html[39m
+[32mINFO [39m Generated: [35mimg/default.png[39m
+[32mINFO [39m Generated: [35m2021/11/10/Typora使用了0号显卡，怀疑是导致其卡顿的原因Typora启动加速/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/更改Chrome浏览器安装位置的方法谷歌mklink/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/NodeJs-的安装及配置环境变量/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/启动多个应用程序并使程序最小化/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/python安装教程（windows）-知乎/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/新电脑还原hexo博客/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/Git安装教程（2-30-1详细教程）/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/11/bat批处理实现守护进程-Windows使用bat批处理实现守护进程脚本分享/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/V2Ray路由器高级功能配置丨使用教程/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/test2/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/WPS专业版下载，激活密钥，永久激活无广告，无弹窗，企业版专用【高速下载】/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/24/Web前端：hexo-github搭建个人博客，免费！/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/15/测试-霍格沃兹-初级/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/23/Python3读取写入json的中文乱码问题-SeniorZ的点滴记录-程序员信息网/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/2.1-tutorial_py_image_display/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/Windows-Terminal-完美配置-PowerShell-7-1-知乎/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/21/运行bat时隐藏cmd窗口/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/Anaconda-VSCode-配置python环境/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/21/常用Git常用命令清单与配置/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/moviepy在win上找不到ImageMagick/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/重复视频图片整理/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/python去除水印-程序员的人生A/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/21/hexo部署问题：Error spawn git ENOENT hexo报 Error spawn git ENOENT错误的解决方法/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/25/Markdown转换word（两种方法，实现两者互转）/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/16/MUyangit的Vscode设置/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/09/5款最佳正则表达式编辑调试器/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/09/2021年-github被墙最新hosts-每日更新/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/09/查看网络连接及其发起程序（进程）的方法------测试是否又成为肉鸡的可能性，检测自己的局域网IP，尝试用端口号查询进程名 非原创/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/09/ping-IP-带时间戳循环显示并写入日志（windos版-linux版）/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.13-tutorial_py_hough_line/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/7.2-tutorial_py_pose/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/08/URL-Schemes-汇总-qq-tim-支付宝/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.9-tutorial_py_matcher/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.2-tutorial_py_svm_index/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.3-tutorial_py_kmeans_index/index.html[39m
+[32mINFO [39m 224 files generated in [36m13 s[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Deploying: [35mgit[39m
+[32mINFO [39m Clearing .deploy_git folder...
+[32mINFO [39m Copying files from public folder...
+[32mINFO [39m Copying files from extend dirs...
+warning: LF will be replaced by CRLF in 2021/09/16/MUyangit的Vscode设置/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in 2022/07/15/测试-霍格沃兹-初级/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/fluid-extention.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/gitalk.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/hbe.style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight-dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/main.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/boot.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/code-unfold.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/color-schema.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/events.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/img-lazyload.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/leancloud.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/local-search.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/plugins.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in lib/hbe.js.
+The file will have its original line endings in your working directory
+[master 3fb47b8] MuyanGit 的网站“ 更新 ”中······2022-07-17 15:21:14【https://MuyanGit.github.io/ 】
+ 11 files changed, 13 insertions(+), 13 deletions(-)
+ rewrite "2021/09/17/gitbash\344\270\255npm\346\215\242\346\272\220\344\270\216\345\212\240\351\200\237\344\270\213\350\275\275\346\226\271\346\263\225 ## Git \345\270\270\347\224\250\346\223\215\344\275\234\345\221\275\344\273\244/index.html" (71%)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:MuyanGit/MuyanGit.github.io.git'.
+To github.com:MuyanGit/MuyanGit.github.io.git
+   033f532..3fb47b8  HEAD -> master
+[32mINFO [39m Deploy done: [35mgit[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Start backup: git
+warning: LF will be replaced by CRLF in 杂项/博客备份/2022-07-17log.txt.
+The file will have its original line endings in your working directory
+[master 93a9e56] MuyanGit 的网站“ 备份 ”中······2022-07-17 15:21:28【https://MuyanGit.github.io/ 】
+ 2 files changed, 527 insertions(+)
+ create mode 100644 "\346\235\202\351\241\271/\345\215\232\345\256\242\345\244\207\344\273\275/2022-07-17log.txt\357\200\272"
+ create mode 100644 "\346\235\202\351\241\271/\351\205\215\347\275\256\346\226\207\344\273\266/\345\270\270\347\224\250\351\205\215\347\275\256\346\226\207\344\273\266/notepad++/notepad\347\254\224\350\256\260/backup/\345\233\275\351\231\205\347\211\210leancloud@2022-07-17_151441"
+Branch 'master' set up to track remote branch 'backup' from 'github'.
+To github.com:MuyanGit/MuyanGit.github.io.git
+   5b9e931..93a9e56  master -> backup
+[32mINFO [39m Backup done: git
+MuyanGit博客备份
+结束运行备份命令——————————————
+Sun Jul 17 15:21:32 2022······备份结束中
+开始运行备份命令——————————————
+Sun Jul 17 16:20:38 2022······备份进行中
+[32mINFO [39m Validating config
+[32mINFO [39m Deleted database.
+[32mINFO [39m Deleted public folder.
+[32mINFO [39m Validating config
+[32mINFO [39m Start processing
+[32mINFO [39m hexo-blog-encrypt: encrypting "加密文档1" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "用python写个颜值评分器筛选最美主播" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m 
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+[32mINFO [39m Files loaded in [36m20 s[39m
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/9.3-tutorial_py_hdr/index.html [ 17.21% saved]
+[32mINFO [39m neat the html: about/index.html [ 25.42% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/9.2-tutorial_py_inpainting/index.html [ 22.80% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/9.1-tutorial_py_non_local_means/index.html [ 17.95% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.3.2-tutorial_py_kmeans_opencv/index.html [ 16.32% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.3.1-tutorial_py_kmeans_understanding/index.html [ 23.52% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.3-tutorial_py_kmeans_index/index.html [ 27.52% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.2.2-tutorial_py_svm_opencv/index.html [ 16.37% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.2.1-tutorial_py_svm_basics/index.html [ 21.89% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.2-tutorial_py_svm_index/index.html [ 27.51% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.1.2-tutorial_py_knn_opencv/index.html [ 18.64% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.1.1-tutorial_py_knn_understanding/index.html [ 18.93% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/7.4-tutorial_py_depthmap/index.html [ 23.26% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/8.1-tutorial_py_knn_index/index.html [ 27.61% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/7.2-tutorial_py_pose/index.html [ 16.95% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/7.3-tutorial_py_epipolar_geometry/index.html [ 17.56% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/7.1-tutorial_py_calibration/index.html [ 16.00% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/6.3-tutorial_py_bg_subtraction/index.html [ 18.69% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/6.2-tutorial_py_lucas_kanade/index.html [ 15.88% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/6.1-tutorial_py_meanshift/index.html [ 16.21% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.9-tutorial_py_matcher/index.html [ 15.32% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.8-tutorial_py_orb/index.html [ 22.47% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.7-tutorial_py_brief/index.html [ 23.10% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.6-tutorial_py_fast/index.html [ 20.14% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.5-tutorial_py_surf_intro/index.html [ 18.24% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.4-tutorial_py_sift_intro/index.html [ 20.61% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.3-tutorial_py_shi_tomasi/index.html [ 23.34% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.2-tutorial_py_harris/index.html [ 18.86% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.10-tutorial_py_feature_homography/index.html [ 19.36% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/5.1-tutorial_py_features_meaning/index.html [ 24.41% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.9-tutorial_py_contours/index.html [ 8.20% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.8-tutorial_py_image_pyramids/index.html [ 18.77% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.7-tutorial_py_canny/index.html [ 21.81% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.6-tutorial_py_gradients/index.html [ 19.64% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.5-tutorial_py_morphological_ops/index.html [ 17.16% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.4-tutorial_py_filtering/index.html [ 18.91% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.3-tutorial_py_thresholding/index.html [ 14.12% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.2-tutorial_py_geometric_transformations/index.html [ 16.56% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.15-tutorial_py_watershed_segmentation/index.html [ 20.13% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.16-tutorial_py_grabcut/index.html [ 18.95% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.14-tutorial_py_hough_circle/index.html [ 23.12% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.13-tutorial_py_hough_line/index.html [ 17.33% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.12-tutorial_py_template_matching/index.html [ 18.08% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.11-tutorial_py_image_transforms/index.html [ 12.60% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.10-tutorial_py_histograms/index.html [ 9.66% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/4.1-tutorial_py_colorspaces/index.html [ 20.20% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/3.3-tutorial_py_optimization/index.html [ 18.19% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/3.2-tutorial_py_image_arithmetics/index.html [ 19.97% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/3.1-tutorial_py_basic_ops/index.html [ 15.43% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/2.5-tutorial_py_trackbar/index.html [ 21.24% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/2.4-tutorial_py_mouse_handling/index.html [ 18.95% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/2.3-tutorial_py_drawing_functions/index.html [ 19.24% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/2.2-tutorial_py_video_display/index.html [ 17.82% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/2.1-tutorial_py_image_display/index.html [ 17.70% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/11.1-tutorial_py_OpenCV-Python/index.html [ 16.74% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/10.1-tutorial_py_face_detection/index.html [ 21.18% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/1.2-tutorial_py_setup_in_ubuntu/index.html [ 18.44% saved]
+[32mINFO [39m neat the html: 2022/07/17/博客加密文档/index.html [ 26.75% saved]
+[32mINFO [39m neat the html: 2022/07/17/4.0.0/1.1-tutorial_py_intro/index.html [ 24.00% saved]
+[32mINFO [39m neat the html: 2022/07/15/如何配置多个邮箱的ssh-key，既能使用github，又能使用gitlab-Windows下配置多个git账号的SSH-Key/index.html [ 14.31% saved]
+[32mINFO [39m neat the html: 2022/07/15/Selenium自动化测试实战web高级测试/index.html [ 26.67% saved]
+[32mINFO [39m neat the html: 2022/07/15/测试-霍格沃兹-初级/index.html [ 3.29% saved]
+[32mINFO [39m neat the html: 2022/07/15/Vm安装ubuntu以及配置/index.html [ 15.15% saved]
+[32mINFO [39m neat the html: 2022/06/08/Windows桌面程序自动化控制之uiautomation模块全面讲解/index.html [ 2.51% saved]
+[32mINFO [39m neat the html: 2022/01/22/Python中内置的日志模块logging用法详解/index.html [ 5.77% saved]
+[32mINFO [39m neat the html: 2021/11/18/英文文本分词之工具NLTK/index.html [ 20.38% saved]
+[32mINFO [39m neat the html: 2021/11/16/NET-core在vscode配置/index.html [ 14.72% saved]
+[32mINFO [39m neat the html: 2021/11/13/redis入门/index.html [ 15.04% saved]
+[32mINFO [39m neat the html: 2021/11/12/用python写个颜值评分器筛选最美主播/index.html [ 8.11% saved]
+[32mINFO [39m neat the html: 2021/11/11/win永久激活数字证书/index.html [ 18.83% saved]
+[32mINFO [39m neat the html: 2021/11/11/Windows上使用bat实现备份一个月内的数据库数据到文件/index.html [ 9.04% saved]
+[32mINFO [39m neat the html: 2021/11/11/bat批处理实现守护进程-Windows使用bat批处理实现守护进程脚本分享/index.html [ 14.04% saved]
+[32mINFO [39m neat the html: 2021/11/10/Typora使用了0号显卡，怀疑是导致其卡顿的原因Typora启动加速/index.html [ 21.62% saved]
+[32mINFO [39m neat the html: 2021/11/10/更改Chrome浏览器安装位置的方法谷歌mklink/index.html [ 23.05% saved]
+[32mINFO [39m neat the html: 2021/11/10/NodeJs-的安装及配置环境变量/index.html [ 16.99% saved]
+[32mINFO [39m neat the html: 2021/11/10/python安装教程（windows）-知乎/index.html [ 23.79% saved]
+[32mINFO [39m neat the html: 2021/11/10/新电脑还原hexo博客/index.html [ 9.73% saved]
+[32mINFO [39m neat the html: 2021/11/10/Windows-Terminal-完美配置-PowerShell-7-1-知乎/index.html [ 4.82% saved]
+[32mINFO [39m neat the html: 2021/11/10/启动多个应用程序并使程序最小化/index.html [ 21.78% saved]
+[32mINFO [39m neat the html: 2021/11/10/Git安装教程（2-30-1详细教程）/index.html [ 19.98% saved]
+[32mINFO [39m neat the html: 2021/11/10/V2Ray路由器高级功能配置丨使用教程/index.html [ 16.56% saved]
+[32mINFO [39m neat the html: 2021/11/10/WPS专业版下载，激活密钥，永久激活无广告，无弹窗，企业版专用【高速下载】/index.html [ 24.66% saved]
+[32mINFO [39m neat the html: 2021/11/10/test2/index.html [ 24.06% saved]
+[32mINFO [39m neat the html: 2021/11/10/test/index.html [ 27.83% saved]
+[32mINFO [39m neat the html: 2021/10/25/16-如何在csv文件中跳过第一行的python代码/index.html [ 16.01% saved]
+[32mINFO [39m neat the html: 2021/11/03/python-requests之-基础用法/index.html [ 7.80% saved]
+[32mINFO [39m neat the html: 2021/10/24/教程-免费域名注册及域名解析-freenom-cloudflare/index.html [ 17.79% saved]
+[32mINFO [39m neat the html: 2021/10/24/Web前端：hexo-github搭建个人博客，免费！/index.html [ 11.87% saved]
+[32mINFO [39m neat the html: 2021/10/23/Pyinstaller打包Python代码为-exe，多个-py文件和多模块打包-Ethan的博客-程序员宅基地-pyinstaller打包多个py文件/index.html [ 24.15% saved]
+[32mINFO [39m neat the html: 2021/10/23/Python3读取写入json的中文乱码问题-SeniorZ的点滴记录-程序员信息网/index.html [ 22.92% saved]
+[32mINFO [39m neat the html: 2021/10/21/运行bat时隐藏cmd窗口/index.html [ 17.07% saved]
+[32mINFO [39m neat the html: 2021/10/21/windows中gitbash执行命令之前显示时间/index.html [ 11.83% saved]
+[32mINFO [39m neat the html: 2021/10/21/常用Git常用命令清单与配置/index.html [ 6.04% saved]
+[32mINFO [39m neat the html: 2021/10/21/hexo部署问题：Error spawn git ENOENT hexo报 Error spawn git ENOENT错误的解决方法/index.html [ 12.45% saved]
+[32mINFO [39m neat the html: 2021/10/20/重复视频图片整理/index.html [ 5.73% saved]
+[32mINFO [39m neat the html: 2021/10/20/禁止软件联网，禁止文件夹访问网络/index.html [ 20.75% saved]
+[32mINFO [39m neat the html: 2021/10/20/Anaconda-VSCode-配置python环境/index.html [ 5.57% saved]
+[32mINFO [39m neat the html: 2021/10/20/moviepy在win上找不到ImageMagick/index.html [ 23.81% saved]
+[32mINFO [39m neat the html: 2021/10/20/python去除水印-程序员的人生A/index.html [ 19.16% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频/index.html [ 2.94% saved]
+[32mINFO [39m neat the html: 2021/10/12/正则表达式/index.html [ 10.67% saved]
+[32mINFO [39m neat the html: 2021/09/30/使用bat命令打开cmd，并打开某目录-并执行命令1-并执行命令2-并执行命令3···/index.html [ 24.12% saved]
+[32mINFO [39m neat the html: 2021/09/25/张至顺真人讲解《炁體源流》/index.html [ 8.78% saved]
+[32mINFO [39m neat the html: 2021/09/25/Markdown转换word（两种方法，实现两者互转）/index.html [ 20.85% saved]
+[32mINFO [39m neat the html: 2021/09/17/gitbash中npm换源与加速下载方法 ## Git 常用操作命令/index.html [ 9.72% saved]
+[32mINFO [39m neat the html: 2021/09/16/Sublime配置/index.html [ 28.14% saved]
+[32mINFO [39m neat the html: 2021/09/16/MUyangit的Vscode设置/index.html [ 21.51% saved]
+[32mINFO [39m neat the html: 2021/09/09/2021年-github被墙最新hosts-每日更新/index.html [ 25.66% saved]
+[32mINFO [39m neat the html: 2021/09/09/auto-js-精品基础教程-2021最新版-auto-js教程/index.html [ 16.17% saved]
+[32mINFO [39m neat the html: 2021/09/09/5款最佳正则表达式编辑调试器/index.html [ 18.67% saved]
+[32mINFO [39m neat the html: 2021/09/09/查看网络连接及其发起程序（进程）的方法------测试是否又成为肉鸡的可能性，检测自己的局域网IP，尝试用端口号查询进程名 非原创/index.html [ 23.86% saved]
+[32mINFO [39m neat the html: 2021/09/09/ping-IP-带时间戳循环显示并写入日志（windos版-linux版）/index.html [ 12.43% saved]
+[32mINFO [39m neat the html: 2021/09/08/正则表达式编辑工具-JGsoft-RegexBuddy-v4-10免注册汉化版/index.html [ 20.81% saved]
+[32mINFO [39m neat the html: 2021/09/08/URL-Schemes-汇总-qq-tim-支付宝/index.html [ 13.92% saved]
+[32mINFO [39m neat the html: 2021/09/06/Typora-PicGO-Gitee图床配置/index.html [ 18.15% saved]
+[32mINFO [39m neat the html: 2019/12/30/五分钟做出炫酷视频片头特效/index.html [ 25.70% saved]
+[32mINFO [39m neat the html: 2018/12/12/Hexo-Theme-Sakura/index.html [ 8.92% saved]
+[32mINFO [39m neat the html: categories/技术/index.html [ 22.06% saved]
+[32mINFO [39m neat the html: categories/技术/page/2/index.html [ 21.17% saved]
+[32mINFO [39m neat the html: categories/技术/page/3/index.html [ 20.93% saved]
+[32mINFO [39m neat the html: categories/技术/page/4/index.html [ 21.59% saved]
+[32mINFO [39m neat the html: categories/技术/page/5/index.html [ 21.66% saved]
+[32mINFO [39m neat the html: categories/技术/page/6/index.html [ 22.00% saved]
+[32mINFO [39m neat the html: categories/生活/index.html [ 25.80% saved]
+[32mINFO [39m neat the html: categories/资源/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: archives/index.html [ 23.69% saved]
+[32mINFO [39m neat the html: archives/page/2/index.html [ 23.45% saved]
+[32mINFO [39m neat the html: archives/page/3/index.html [ 23.35% saved]
+[32mINFO [39m neat the html: archives/page/4/index.html [ 23.17% saved]
+[32mINFO [39m neat the html: archives/page/5/index.html [ 23.12% saved]
+[32mINFO [39m neat the html: archives/page/6/index.html [ 22.39% saved]
+[32mINFO [39m neat the html: archives/page/7/index.html [ 21.86% saved]
+[32mINFO [39m neat the html: archives/page/8/index.html [ 21.20% saved]
+[32mINFO [39m neat the html: archives/page/9/index.html [ 21.22% saved]
+[32mINFO [39m neat the html: archives/page/10/index.html [ 22.01% saved]
+[32mINFO [39m neat the html: archives/page/11/index.html [ 21.09% saved]
+[32mINFO [39m neat the html: archives/page/12/index.html [ 23.31% saved]
+[32mINFO [39m neat the html: archives/2018/index.html [ 25.81% saved]
+[32mINFO [39m neat the html: archives/2018/12/index.html [ 25.81% saved]
+[32mINFO [39m neat the html: archives/2019/index.html [ 25.58% saved]
+[32mINFO [39m neat the html: archives/2019/12/index.html [ 25.58% saved]
+[32mINFO [39m neat the html: archives/2021/index.html [ 21.80% saved]
+[32mINFO [39m neat the html: archives/2021/page/2/index.html [ 22.01% saved]
+[32mINFO [39m neat the html: archives/2021/page/3/index.html [ 21.24% saved]
+[32mINFO [39m neat the html: archives/2021/page/4/index.html [ 21.76% saved]
+[32mINFO [39m neat the html: archives/2021/page/5/index.html [ 21.57% saved]
+[32mINFO [39m neat the html: archives/2021/09/index.html [ 21.53% saved]
+[32mINFO [39m neat the html: archives/2021/09/page/2/index.html [ 23.87% saved]
+[32mINFO [39m neat the html: archives/2021/10/index.html [ 21.67% saved]
+[32mINFO [39m neat the html: archives/2021/10/page/2/index.html [ 23.77% saved]
+[32mINFO [39m neat the html: archives/2021/11/index.html [ 22.04% saved]
+[32mINFO [39m neat the html: archives/2021/11/page/2/index.html [ 22.49% saved]
+[32mINFO [39m neat the html: archives/2022/index.html [ 23.65% saved]
+[32mINFO [39m neat the html: archives/2022/page/2/index.html [ 23.39% saved]
+[32mINFO [39m neat the html: archives/2022/page/3/index.html [ 23.28% saved]
+[32mINFO [39m neat the html: archives/2022/page/4/index.html [ 23.15% saved]
+[32mINFO [39m neat the html: archives/2022/page/5/index.html [ 23.22% saved]
+[32mINFO [39m neat the html: archives/2022/page/6/index.html [ 22.59% saved]
+[32mINFO [39m neat the html: archives/2022/page/7/index.html [ 23.71% saved]
+[32mINFO [39m neat the html: archives/2022/01/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: archives/2022/06/index.html [ 25.41% saved]
+[32mINFO [39m neat the html: archives/2022/07/index.html [ 23.62% saved]
+[32mINFO [39m neat the html: archives/2022/07/page/2/index.html [ 23.35% saved]
+[32mINFO [39m neat the html: archives/2022/07/page/3/index.html [ 23.24% saved]
+[32mINFO [39m neat the html: archives/2022/07/page/4/index.html [ 23.11% saved]
+[32mINFO [39m neat the html: archives/2022/07/page/5/index.html [ 23.17% saved]
+[32mINFO [39m neat the html: index.html [ 26.15% saved]
+[32mINFO [39m neat the html: archives/2022/07/page/6/index.html [ 22.55% saved]
+[32mINFO [39m neat the html: archives/2022/07/page/7/index.html [ 24.52% saved]
+[32mINFO [39m neat the html: page/2/index.html [ 25.88% saved]
+[32mINFO [39m neat the html: page/3/index.html [ 25.68% saved]
+[32mINFO [39m neat the html: page/4/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: page/5/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: page/6/index.html [ 25.28% saved]
+[32mINFO [39m neat the html: page/7/index.html [ 25.52% saved]
+[32mINFO [39m neat the html: page/8/index.html [ 25.50% saved]
+[32mINFO [39m neat the html: page/9/index.html [ 25.33% saved]
+[32mINFO [39m neat the html: page/10/index.html [ 25.83% saved]
+[32mINFO [39m neat the html: page/11/index.html [ 24.36% saved]
+[32mINFO [39m neat the html: page/12/index.html [ 25.45% saved]
+[32mINFO [39m neat the html: tags/Anaconda/index.html [ 25.72% saved]
+[32mINFO [39m neat the html: tags/git/index.html [ 25.33% saved]
+[32mINFO [39m neat the html: tags/web/index.html [ 25.86% saved]
+[32mINFO [39m neat the html: tags/悦读/index.html [ 25.83% saved]
+[32mINFO [39m neat the html: tags/NET-Core/index.html [ 25.75% saved]
+[32mINFO [39m neat the html: tags/NodeJs/index.html [ 25.64% saved]
+[32mINFO [39m neat the html: tags/Typora/index.html [ 25.33% saved]
+[32mINFO [39m neat the html: tags/工具/index.html [ 24.69% saved]
+[32mINFO [39m neat the html: tags/Terminal/index.html [ 25.59% saved]
+[32mINFO [39m neat the html: tags/bat/index.html [ 25.42% saved]
+[32mINFO [39m neat the html: tags/python/index.html [ 25.65% saved]
+[32mINFO [39m neat the html: tags/图集/index.html [ 25.77% saved]
+[32mINFO [39m neat the html: tags/vbs/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: tags/hexo/index.html [ 25.74% saved]
+[32mINFO [39m neat the html: tags/Chrome/index.html [ 25.52% saved]
+[32mINFO [39m neat the html: 404.html [ 25.36% saved]
+[32mINFO [39m neat the html: tags/加密/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: tags/cmd/index.html [ 25.78% saved]
+[32mINFO [39m neat the html: tags/index.html [ 23.65% saved]
+[32mINFO [39m neat the html: categories/index.html [ 25.04% saved]
+[32mINFO [39m neat the html: links/index.html [ 26.37% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\MuyanGit\themes\fluid\source\css\fluid-extention.styl [ 30.24% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\MuyanGit\themes\fluid\source\css\gitalk.css [ 15.44% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\MuyanGit\themes\fluid\source\css\highlight-dark.styl [ 0.16% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\MuyanGit\themes\fluid\source\css\main.styl [ 17.17% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\MuyanGit\themes\fluid\source\css\highlight.styl [ 0.08% saved]
+[32mINFO [39m Generated: [35marchives/2018/index.html[39m
+[32mINFO [39m Generated: [35marchives/2019/12/index.html[39m
+[32mINFO [39m Generated: [35marchives/index.html[39m
+[32mINFO [39m Generated: [35marchives/2019/index.html[39m
+[32mINFO [39m Generated: [35marchives/2018/12/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/09/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/10/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/06/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/11/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/01/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/index.html[39m
+[32mINFO [39m Generated: [35mabout/index.html[39m
+[32mINFO [39m Generated: [35mtags/python/index.html[39m
+[32mINFO [39m Generated: [35mtags/bat/index.html[39m
+[32mINFO [39m Generated: [35mtags/Terminal/index.html[39m
+[32mINFO [39m Generated: [35mindex.html[39m
+[32mINFO [39m Generated: [35mtags/hexo/index.html[39m
+[32mINFO [39m Generated: [35mtags/图集/index.html[39m
+[32mINFO [39m Generated: [35mtags/vbs/index.html[39m
+[32mINFO [39m Generated: [35mtags/cmd/index.html[39m
+[32mINFO [39m Generated: [35mtags/Chrome/index.html[39m
+[32mINFO [39m Generated: [35mlinks/index.html[39m
+[32mINFO [39m Generated: [35mxml/local-search.xml[39m
+[32mINFO [39m Generated: [35mtags/加密/index.html[39m
+[32mINFO [39m Generated: [35mimg/avatar.png[39m
+[32mINFO [39m Generated: [35marchives/2021/page/2/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/2/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/10/page/2/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/11/page/2/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/09/page/2/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/page/2/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/page/2/index.html[39m
+[32mINFO [39m Generated: [35mpage/12/index.html[39m
+[32mINFO [39m Generated: [35mtags/Anaconda/index.html[39m
+[32mINFO [39m Generated: [35mlib/hbe.js[39m
+[32mINFO [39m Generated: [35mcss/hbe.style.css[39m
+[32mINFO [39m Generated: [35m404.html[39m
+[32mINFO [39m Generated: [35mimg/fluid.png[39m
+[32mINFO [39m Generated: [35mcategories/index.html[39m
+[32mINFO [39m Generated: [35mimg/loading.gif[39m
+[32mINFO [39m Generated: [35mtags/index.html[39m
+[32mINFO [39m Generated: [35mimg/police_beian.png[39m
+[32mINFO [39m Generated: [35mcategories/技术/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/3/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/4/index.html[39m
+[32mINFO [39m Generated: [35mcategories/资源/index.html[39m
+[32mINFO [39m Generated: [35mcategories/生活/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/5/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/6/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/7/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/8/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/page/3/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/9/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/10/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/page/4/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/11/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/page/5/index.html[39m
+[32mINFO [39m Generated: [35marchives/page/12/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/page/5/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/page/3/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/page/4/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/page/7/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/page/3/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/page/6/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/page/4/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/page/5/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/page/6/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/page/7/index.html[39m
+[32mINFO [39m Generated: [35mtags/web/index.html[39m
+[32mINFO [39m Generated: [35mtags/git/index.html[39m
+[32mINFO [39m Generated: [35mtags/悦读/index.html[39m
+[32mINFO [39m Generated: [35mtags/NET-Core/index.html[39m
+[32mINFO [39m Generated: [35mtags/Typora/index.html[39m
+[32mINFO [39m Generated: [35mtags/NodeJs/index.html[39m
+[32mINFO [39m Generated: [35mtags/工具/index.html[39m
+[32mINFO [39m Generated: [35mjs/code-unfold.js[39m
+[32mINFO [39m Generated: [35mpage/2/index.html[39m
+[32mINFO [39m Generated: [35mpage/5/index.html[39m
+[32mINFO [39m Generated: [35mpage/3/index.html[39m
+[32mINFO [39m Generated: [35mpage/6/index.html[39m
+[32mINFO [39m Generated: [35mpage/7/index.html[39m
+[32mINFO [39m Generated: [35mpage/9/index.html[39m
+[32mINFO [39m Generated: [35mpage/8/index.html[39m
+[32mINFO [39m Generated: [35mpage/10/index.html[39m
+[32mINFO [39m Generated: [35mpage/11/index.html[39m
+[32mINFO [39m Generated: [35mpage/4/index.html[39m
+[32mINFO [39m Generated: [35mcategories/技术/page/2/index.html[39m
+[32mINFO [39m Generated: [35mjs/boot.js[39m
+[32mINFO [39m Generated: [35mjs/color-schema.js[39m
+[32mINFO [39m Generated: [35mjs/events.js[39m
+[32mINFO [39m Generated: [35mjs/img-lazyload.js[39m
+[32mINFO [39m Generated: [35mjs/plugins.js[39m
+[32mINFO [39m Generated: [35mjs/utils.js[39m
+[32mINFO [39m Generated: [35mjs/local-search.js[39m
+[32mINFO [39m Generated: [35mjs/leancloud.js[39m
+[32mINFO [39m Generated: [35mcss/fluid-extention.css[39m
+[32mINFO [39m Generated: [35mcss/highlight-dark.css[39m
+[32mINFO [39m Generated: [35mcss/gitalk.css[39m
+[32mINFO [39m Generated: [35mcss/main.css[39m
+[32mINFO [39m Generated: [35mcss/highlight.css[39m
+[32mINFO [39m Generated: [35mcategories/技术/page/3/index.html[39m
+[32mINFO [39m Generated: [35mcategories/技术/page/5/index.html[39m
+[32mINFO [39m Generated: [35mlocal-search.xml[39m
+[32mINFO [39m Generated: [35mcategories/技术/page/6/index.html[39m
+[32mINFO [39m Generated: [35mcategories/技术/page/4/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.1-tutorial_py_knn_index/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/test/index.html[39m
+[32mINFO [39m Generated: [35m2019/12/30/五分钟做出炫酷视频片头特效/index.html[39m
+[32mINFO [39m Generated: [35m2018/12/12/Hexo-Theme-Sakura/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/16/Sublime配置/index.html[39m
+[32mINFO [39m Generated: [35m2022/01/22/Python中内置的日志模块logging用法详解/index.html[39m
+[32mINFO [39m Generated: [35m2022/06/08/Windows桌面程序自动化控制之uiautomation模块全面讲解/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/25/16-如何在csv文件中跳过第一行的python代码/index.html[39m
+[32mINFO [39m Generated: [35mimg/default.png[39m
+[32mINFO [39m Generated: [35m2022/07/15/Selenium自动化测试实战web高级测试/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/18/英文文本分词之工具NLTK/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/13/redis入门/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/博客加密文档/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/16/NET-core在vscode配置/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/12/用python写个颜值评分器筛选最美主播/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/11/Windows上使用bat实现备份一个月内的数据库数据到文件/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/03/python-requests之-基础用法/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/23/Pyinstaller打包Python代码为-exe，多个-py文件和多模块打包-Ethan的博客-程序员宅基地-pyinstaller打包多个py文件/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/24/教程-免费域名注册及域名解析-freenom-cloudflare/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/21/windows中gitbash执行命令之前显示时间/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/30/使用bat命令打开cmd，并打开某目录-并执行命令1-并执行命令2-并执行命令3···/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/12/正则表达式/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/09/2021年-github被墙最新hosts-每日更新/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/17/gitbash中npm换源与加速下载方法 ## Git 常用操作命令/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/08/正则表达式编辑工具-JGsoft-RegexBuddy-v4-10免注册汉化版/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/06/Typora-PicGO-Gitee图床配置/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.2-tutorial_py_svm_index/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/9.2-tutorial_py_inpainting/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/9.1-tutorial_py_non_local_means/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/9.3-tutorial_py_hdr/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.3.1-tutorial_py_kmeans_understanding/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.2.2-tutorial_py_svm_opencv/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.3.2-tutorial_py_kmeans_opencv/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.1.2-tutorial_py_knn_opencv/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.2.1-tutorial_py_svm_basics/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.1.1-tutorial_py_knn_understanding/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/7.4-tutorial_py_depthmap/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/7.3-tutorial_py_epipolar_geometry/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/7.1-tutorial_py_calibration/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/6.2-tutorial_py_lucas_kanade/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/7.2-tutorial_py_pose/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/6.1-tutorial_py_meanshift/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.8-tutorial_py_orb/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/重复视频图片整理/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.7-tutorial_py_brief/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.5-tutorial_py_surf_intro/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.9-tutorial_py_matcher/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.6-tutorial_py_fast/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/25/张至顺真人讲解《炁體源流》/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/6.3-tutorial_py_bg_subtraction/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.4-tutorial_py_sift_intro/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.3-tutorial_py_shi_tomasi/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.10-tutorial_py_feature_homography/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.1-tutorial_py_features_meaning/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.7-tutorial_py_canny/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.4-tutorial_py_filtering/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.5-tutorial_py_morphological_ops/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.8-tutorial_py_image_pyramids/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.2-tutorial_py_geometric_transformations/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/5.2-tutorial_py_harris/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.6-tutorial_py_gradients/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.11-tutorial_py_image_transforms/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.13-tutorial_py_hough_line/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.3-tutorial_py_thresholding/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.15-tutorial_py_watershed_segmentation/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.12-tutorial_py_template_matching/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/3.3-tutorial_py_optimization/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.10-tutorial_py_histograms/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.1-tutorial_py_colorspaces/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/3.2-tutorial_py_image_arithmetics/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/3.1-tutorial_py_basic_ops/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.9-tutorial_py_contours/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.14-tutorial_py_hough_circle/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/4.16-tutorial_py_grabcut/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/2.4-tutorial_py_mouse_handling/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/2.5-tutorial_py_trackbar/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/2.2-tutorial_py_video_display/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/2.3-tutorial_py_drawing_functions/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/2.1-tutorial_py_image_display/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/11.1-tutorial_py_OpenCV-Python/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/1.2-tutorial_py_setup_in_ubuntu/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/15/如何配置多个邮箱的ssh-key，既能使用github，又能使用gitlab-Windows下配置多个git账号的SSH-Key/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/10.1-tutorial_py_face_detection/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/15/测试-霍格沃兹-初级/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/15/Vm安装ubuntu以及配置/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/1.1-tutorial_py_intro/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/11/win永久激活数字证书/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/11/bat批处理实现守护进程-Windows使用bat批处理实现守护进程脚本分享/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/NodeJs-的安装及配置环境变量/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/更改Chrome浏览器安装位置的方法谷歌mklink/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/新电脑还原hexo博客/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/Typora使用了0号显卡，怀疑是导致其卡顿的原因Typora启动加速/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/python安装教程（windows）-知乎/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/Git安装教程（2-30-1详细教程）/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/Windows-Terminal-完美配置-PowerShell-7-1-知乎/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/V2Ray路由器高级功能配置丨使用教程/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/test2/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/WPS专业版下载，激活密钥，永久激活无广告，无弹窗，企业版专用【高速下载】/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/24/Web前端：hexo-github搭建个人博客，免费！/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/10/启动多个应用程序并使程序最小化/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/23/Python3读取写入json的中文乱码问题-SeniorZ的点滴记录-程序员信息网/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/21/运行bat时隐藏cmd窗口/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/21/hexo部署问题：Error spawn git ENOENT hexo报 Error spawn git ENOENT错误的解决方法/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/21/常用Git常用命令清单与配置/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/Anaconda-VSCode-配置python环境/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/禁止软件联网，禁止文件夹访问网络/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/moviepy在win上找不到ImageMagick/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/python去除水印-程序员的人生A/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/25/Markdown转换word（两种方法，实现两者互转）/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/09/auto-js-精品基础教程-2021最新版-auto-js教程/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/08/URL-Schemes-汇总-qq-tim-支付宝/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/16/MUyangit的Vscode设置/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/09/5款最佳正则表达式编辑调试器/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/09/ping-IP-带时间戳循环显示并写入日志（windos版-linux版）/index.html[39m
+[32mINFO [39m Generated: [35m2021/09/09/查看网络连接及其发起程序（进程）的方法------测试是否又成为肉鸡的可能性，检测自己的局域网IP，尝试用端口号查询进程名 非原创/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/4.0.0/8.3-tutorial_py_kmeans_index/index.html[39m
+[32mINFO [39m 224 files generated in [36m9.95 s[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Deploying: [35mgit[39m
+[32mINFO [39m Clearing .deploy_git folder...
+[32mINFO [39m Copying files from public folder...
+[32mINFO [39m Copying files from extend dirs...
+warning: LF will be replaced by CRLF in 2021/09/16/MUyangit的Vscode设置/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in 2022/07/15/测试-霍格沃兹-初级/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/fluid-extention.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/gitalk.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/hbe.style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight-dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/main.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/boot.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/code-unfold.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/color-schema.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/events.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/img-lazyload.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/leancloud.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/local-search.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/plugins.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in lib/hbe.js.
+The file will have its original line endings in your working directory
+[master a3cb13f] MuyanGit 的网站“ 更新 ”中······2022-07-17 16:21:49【https://MuyanGit.github.io/ 】
+ 11 files changed, 13 insertions(+), 13 deletions(-)
+ rewrite "2021/10/21/\345\270\270\347\224\250Git\345\270\270\347\224\250\345\221\275\344\273\244\346\270\205\345\215\225\344\270\216\351\205\215\347\275\256/index.html" (86%)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:MuyanGit/MuyanGit.github.io.git'.
+To github.com:MuyanGit/MuyanGit.github.io.git
+ + ca32f8f...a3cb13f HEAD -> master (forced update)
+[32mINFO [39m Deploy done: [35mgit[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Start backup: git
+warning: LF will be replaced by CRLF in 杂项/博客备份/2022-07-17log.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in 杂项/配置文件/常用配置文件/本地仓库代码备份命令/cloudpan189-go-v0.1.1-windows-x64/cloud189_config.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in 杂项/配置文件/常用配置文件/本地仓库代码备份命令/cloudpan189-go-v0.1.1-windows-x64/天翼云盘签到log.txt.
+The file will have its original line endings in your working directory
+[master 8098fdd] MuyanGit 的网站“ 备份 ”中······2022-07-17 16:22:22【https://MuyanGit.github.io/ 】
+ 6 files changed, 541 insertions(+), 35 deletions(-)
+ create mode 100644 "\346\235\202\351\241\271/\351\205\215\347\275\256\346\226\207\344\273\266/\345\270\270\347\224\250\351\205\215\347\275\256\346\226\207\344\273\266/notepad++/backup/\346\226\260\345\273\272\346\226\207\346\234\254\346\226\207\346\241\243.txt.2022-07-17_155608.bak"
+Branch 'master' set up to track remote branch 'backup' from 'github'.
+To github.com:MuyanGit/MuyanGit.github.io.git
+ + f06dced...8098fdd master -> backup (forced update)
+[32mINFO [39m Backup done: git
+MuyanGit博客备份
+结束运行备份命令——————————————
+Sun Jul 17 16:22:51 2022······备份结束中
+开始运行备份命令——————————————
+Sun Jul 17 16:37:54 2022······备份进行中
+[32mINFO [39m Validating config
+[32mINFO [39m Validating config
+[32mINFO [39m Start processing
+[32mINFO [39m hexo-blog-encrypt: encrypting "加密文档1" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "用python写个颜值评分器筛选最美主播" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m 
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+[32mINFO [39m Files loaded in [36m3.83 s[39m
+[32mINFO [39m neat the html: about/index.html [ 25.41% saved]
+[32mINFO [39m neat the html: 2022/07/17/新增测试/index.html [ 28.02% saved]
+[32mINFO [39m neat the html: 2022/07/17/博客加密文档/index.html [ 27.12% saved]
+[32mINFO [39m neat the html: 2021/11/12/用python写个颜值评分器筛选最美主播/index.html [ 8.11% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频/index.html [ 2.96% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html [ 2.86% saved]
+[32mINFO [39m neat the html: archives/index.html [ 24.36% saved]
+[32mINFO [39m neat the html: archives/2021/index.html [ 24.63% saved]
+[32mINFO [39m neat the html: archives/2021/10/index.html [ 25.04% saved]
+[32mINFO [39m neat the html: archives/2021/11/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: archives/2022/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: categories/技术/index.html [ 24.29% saved]
+[32mINFO [39m neat the html: archives/2022/07/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: index.html [ 27.22% saved]
+[32mINFO [39m neat the html: tags/加密/index.html [ 25.11% saved]
+[32mINFO [39m neat the html: 404.html [ 25.35% saved]
+[32mINFO [39m neat the html: tags/index.html [ 25.79% saved]
+[32mINFO [39m neat the html: categories/index.html [ 25.52% saved]
+[32mINFO [39m neat the html: links/index.html [ 26.35% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\fluid-extention.styl [ 30.24% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight-dark.styl [ 0.16% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\gitalk.css [ 15.44% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\main.styl [ 17.17% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight.styl [ 0.08% saved]
+[32mINFO [39m Generated: [35mabout/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/11/index.html[39m
+[32mINFO [39m Generated: [35marchives/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/index.html[39m
+[32mINFO [39m Generated: [35mlocal-search.xml[39m
+[32mINFO [39m Generated: [35marchives/2021/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/index.html[39m
+[32mINFO [39m Generated: [35mtags/index.html[39m
+[32mINFO [39m Generated: [35mcategories/index.html[39m
+[32mINFO [39m Generated: [35mlinks/index.html[39m
+[32mINFO [39m Generated: [35m404.html[39m
+[32mINFO [39m Generated: [35mindex.html[39m
+[32mINFO [39m Generated: [35mxml/local-search.xml[39m
+[32mINFO [39m Generated: [35mimg/avatar.png[39m
+[32mINFO [39m Generated: [35mlib/hbe.js[39m
+[32mINFO [39m Generated: [35mjs/boot.js[39m
+[32mINFO [39m Generated: [35mcss/hbe.style.css[39m
+[32mINFO [39m Generated: [35marchives/2021/10/index.html[39m
+[32mINFO [39m Generated: [35mtags/加密/index.html[39m
+[32mINFO [39m Generated: [35mimg/fluid.png[39m
+[32mINFO [39m Generated: [35mcategories/技术/index.html[39m
+[32mINFO [39m Generated: [35mimg/loading.gif[39m
+[32mINFO [39m Generated: [35mimg/police_beian.png[39m
+[32mINFO [39m Generated: [35mjs/color-schema.js[39m
+[32mINFO [39m Generated: [35mjs/code-unfold.js[39m
+[32mINFO [39m Generated: [35mjs/img-lazyload.js[39m
+[32mINFO [39m Generated: [35mjs/events.js[39m
+[32mINFO [39m Generated: [35mjs/plugins.js[39m
+[32mINFO [39m Generated: [35mjs/local-search.js[39m
+[32mINFO [39m Generated: [35mjs/leancloud.js[39m
+[32mINFO [39m Generated: [35mjs/utils.js[39m
+[32mINFO [39m Generated: [35mcss/fluid-extention.css[39m
+[32mINFO [39m Generated: [35mcss/gitalk.css[39m
+[32mINFO [39m Generated: [35mcss/highlight-dark.css[39m
+[32mINFO [39m Generated: [35mcss/highlight.css[39m
+[32mINFO [39m Generated: [35mcss/main.css[39m
+[32mINFO [39m Generated: [35m2022/07/17/新增测试/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/12/用python写个颜值评分器筛选最美主播/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频/index.html[39m
+[32mINFO [39m Generated: [35mimg/default.png[39m
+[32mINFO [39m Generated: [35m2022/07/17/博客加密文档/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html[39m
+[32mINFO [39m 42 files generated in [36m1.9 s[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Deploying: [35mgit[39m
+[32mINFO [39m Clearing .deploy_git folder...
+[32mINFO [39m Copying files from public folder...
+[32mINFO [39m Copying files from extend dirs...
+warning: LF will be replaced by CRLF in css/fluid-extention.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/gitalk.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/hbe.style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight-dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/main.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/boot.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/code-unfold.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/color-schema.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/events.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/img-lazyload.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/leancloud.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/local-search.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/plugins.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in lib/hbe.js.
+The file will have its original line endings in your working directory
+[master 8a59ee0] MuyanGit 的网站”更新“中······2022-07-17 16:38:37【https://PonyTown2020.github.io/ 】
+ 17 files changed, 27 insertions(+), 21 deletions(-)
+ rewrite "2021/10/20/\346\211\271\351\207\217\344\270\213\350\275\275\346\212\226\351\237\263\345\215\225\347\224\250\346\210\267\346\211\200\346\234\211\346\227\240\346\260\264\345\215\260\350\247\206\351\242\221/index.html" (97%)
+ rewrite "2022/07/17/\346\226\260\345\242\236\346\265\213\350\257\225/index.html" (94%)
+Branch 'master' set up to track remote branch 'master' from 'git@PonyTown2020:PonyTown2020/PonyTown2020.github.io.git'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   f1ae316..8a59ee0  HEAD -> master
+[32mINFO [39m Deploy done: [35mgit[39m
