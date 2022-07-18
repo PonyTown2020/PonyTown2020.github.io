@@ -1789,3 +1789,16 @@ Branch 'master' set up to track remote branch 'master' from 'git@PonyTown2020:Po
 To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
    a9ed6a6..9741b1e  HEAD -> master
 [32mINFO [39m Deploy done: [35mgit[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Start backup: git
+warning: LF will be replaced by CRLF in 杂项/博客备份/2022-07-17log.txt.
+The file will have its original line endings in your working directory
+[master 97044db] MuyanGit 的网站”备份“中······2022-07-17 20:20:56【https://PonyTown2020.github.io/ 】
+ 1 file changed, 150 insertions(+)
+Branch 'master' set up to track remote branch 'backup' from 'github'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   edf1a96..97044db  master -> backup
+[32mINFO [39m Backup done: git
+MuyanGit博客备份
+结束运行备份命令——————————————
+Sun Jul 17 20:20:59 2022······备份结束中
