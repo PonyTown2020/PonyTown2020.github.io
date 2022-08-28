@@ -1,0 +1,55 @@
+开始运行备份命令——————————————
+Sun Aug 14 17:04:24 2022······备份进行中
+[32mINFO [39m Validating config
+[41mFATAL[49m {
+  err: [Error: ENOTEMPTY: directory not empty, rmdir 'G:\MuyanGitBlog\PonyTown2020\public\2022\07\17\博客加密文档'] {
+    errno: -4051,
+    code: 'ENOTEMPTY',
+    syscall: 'rmdir',
+    path: 'G:\\MuyanGitBlog\\PonyTown2020\\public\\2022\\07\\17\\博客加密文档'
+  }
+} Something's wrong. Maybe you can find the solution here: %s [4mhttps://hexo.io/docs/troubleshooting.html[24m
+开始运行备份命令——————————————
+Sun Aug 14 17:07:30 2022······备份进行中
+[32mINFO [39m Validating config
+[41mFATAL[49m {
+  err: [Error: ENOTEMPTY: directory not empty, rmdir 'G:\MuyanGitBlog\PonyTown2020\public\2022\07\17\博客加密文档'] {
+    errno: -4051,
+    code: 'ENOTEMPTY',
+    syscall: 'rmdir',
+    path: 'G:\\MuyanGitBlog\\PonyTown2020\\public\\2022\\07\\17\\博客加密文档'
+  }
+} Something's wrong. Maybe you can find the solution here: %s [4mhttps://hexo.io/docs/troubleshooting.html[24m
+开始运行备份命令——————————————
+Sun Aug 14 20:07:31 2022······备份进行中
+[32mINFO [39m Validating config
+[41mFATAL[49m {
+  err: [Error: ENOTEMPTY: directory not empty, rmdir 'G:\MuyanGitBlog\PonyTown2020\public\2021\10\20\批量下载抖音单用户所有无水印视频'] {
+    errno: -4051,
+    code: 'ENOTEMPTY',
+    syscall: 'rmdir',
+    path: 'G:\\MuyanGitBlog\\PonyTown2020\\public\\2021\\10\\20\\批量下载抖音单用户所有无水印视频'
+  }
+} Something's wrong. Maybe you can find the solution here: %s [4mhttps://hexo.io/docs/troubleshooting.html[24m
+开始运行备份命令——————————————
+Sun Aug 14 21:07:29 2022······备份进行中
+[32mINFO [39m Validating config
+[41mFATAL[49m {
+  err: [Error: ENOTEMPTY: directory not empty, rmdir 'G:\MuyanGitBlog\PonyTown2020\public\2021\10\20\批量下载抖音单用户所有无水印视频'] {
+    errno: -4051,
+    code: 'ENOTEMPTY',
+    syscall: 'rmdir',
+    path: 'G:\\MuyanGitBlog\\PonyTown2020\\public\\2021\\10\\20\\批量下载抖音单用户所有无水印视频'
+  }
+} Something's wrong. Maybe you can find the solution here: %s [4mhttps://hexo.io/docs/troubleshooting.html[24m
+开始运行备份命令——————————————
+Sun Aug 14 22:00:21 2022······备份进行中
+[32mINFO [39m Validating config
+[41mFATAL[49m {
+  err: [Error: ENOTEMPTY: directory not empty, rmdir 'G:\MuyanGitBlog\PonyTown2020\public\2021\10\20\批量下载抖音单用户所有无水印视频'] {
+    errno: -4051,
+    code: 'ENOTEMPTY',
+    syscall: 'rmdir',
+    path: 'G:\\MuyanGitBlog\\PonyTown2020\\public\\2021\\10\\20\\批量下载抖音单用户所有无水印视频'
+  }
+} Something's wrong. Maybe you can find the solution here: %s [4mhttps://hexo.io/docs/troubleshooting.html[24m

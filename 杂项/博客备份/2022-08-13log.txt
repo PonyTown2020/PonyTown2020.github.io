@@ -1,0 +1,11 @@
+开始运行备份命令——————————————
+Sat Aug 13 14:11:36 2022······备份进行中
+[32mINFO [39m Validating config
+[41mFATAL[49m {
+  err: [Error: UNKNOWN: unknown error, access 'G:\MuyanGitBlog\PonyTown2020\db.json'] {
+    errno: -4094,
+    code: 'UNKNOWN',
+    syscall: 'access',
+    path: 'G:\\MuyanGitBlog\\PonyTown2020\\db.json'
+  }
+} Something's wrong. Maybe you can find the solution here: %s [4mhttps://hexo.io/docs/troubleshooting.html[24m

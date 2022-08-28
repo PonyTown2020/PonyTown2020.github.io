@@ -1,0 +1,1512 @@
+开始运行备份命令——————————————
+Fri Jul 22 05:02:23 2022······备份进行中
+[32mINFO [39m Validating config
+[41mFATAL[49m {
+  err: [OperationalError: ENOENT: no such file or directory, unlink 'G:\MuyanGitBlog\PonyTown2020\db.json'] {
+    cause: [Error: ENOENT[41mFATAL[49m {
+  err: [Error: ENOENT: no such file or directory, unlink 'G:\MuyanG[32mINFO [39m Validating config
+[32mINFO [39m Deleted public folder.
+e: 'ENOENT',
+    syscall: 'unlink',
+    path: 'G:\\MuyanGitBlog\\PonyTown2020\\public\\local-search.xml'
+  }
+} Something's wrong. Maybe you can find the solution here: %s [4mhttps://hexo.io/docs/troubleshooting.html[24m
+an find the solution here: %s [4mhttps://hexo.io/docs/troubleshooting.html[24m
+[32mINFO [39m Validating config
+[32mINFO [39m Start processing
+[32mINFO [39m hexo-blog-encrypt: encrypting "加密文档1" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "用python写个颜值评分器筛选最美主播" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m 
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+[32mINFO [39m Files loaded in [36m5.93 s[39m
+[32mINFO [39m neat the html: about/index.html [ 25.41% saved]
+[32mINFO [39m neat the html: 2022/07/17/新增测试/index.html [ 28.02% saved]
+[32mINFO [39m neat the html: 2022/07/17/博客加密文档/index.html [ 27.12% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html [ 2.93% saved]
+[32mINFO [39m neat the html: 2021/11/12/用python写个颜值评分器筛选最美主播/index.html [ 8.10% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频/index.html [ 2.89% saved]
+[32mINFO [39m neat the html: archives/index.html [ 24.36% saved]
+[32mINFO [39m neat the html: archives/2021/index.html [ 24.63% saved]
+[32mINFO [39m neat the html: archives/2021/10/index.html [ 25.04% saved]
+[32mINFO [39m neat the html: archives/2021/11/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: archives/2022/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: archives/2022/07/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: categories/技术/index.html [ 24.29% saved]
+[32mINFO [39m neat the html: index.html [ 27.22% saved]
+[32mINFO [39m neat the html: tags/加密/index.html [ 25.11% saved]
+[32mINFO [39m neat the html: 404.html [ 25.35% saved]
+[32mINFO [39m neat the html: tags/index.html [ 25.79% saved]
+[32mINFO [39m neat the html: links/index.html [ 26.35% saved]
+[32mINFO [39m neat the html: categories/index.html [ 25.52% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\fluid-extention.styl [ 30.24% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight-dark.styl [ 0.16% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\gitalk.css [ 15.44% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight.styl [ 0.08% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\main.styl [ 17.17% saved]
+[32mINFO [39m Generated: [35marchives/index.html[39m
+[32mINFO [39m Generated: [35mabout/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/11/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/10/index.html[39m
+[32mINFO [39m Generated: [35mtags/index.html[39m
+[32mINFO [39m Generated: [35mlinks/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/index.html[39m
+[32mINFO [39m Generated: [35mlocal-search.xml[39m
+[32mINFO [39m Generated: [35mcategories/index.html[39m
+[32mINFO [39m Generated: [35mindex.html[39m
+[32mINFO [39m Generated: [35m404.html[39m
+[32mINFO [39m Generated: [35mimg/avatar.png[39m
+[32mINFO [39m Generated: [35mxml/local-search.xml[39m
+[32mINFO [39m Generated: [35mimg/fluid.png[39m
+[32mINFO [39m Generated: [35mimg/loading.gif[39m
+[32mINFO [39m Generated: [35mimg/police_beian.png[39m
+[32mINFO [39m Generated: [35mjs/boot.js[39m
+[32mINFO [39m Generated: [35mcategories/技术/index.html[39m
+[32mINFO [39m Generated: [35mtags/加密/index.html[39m
+[32mINFO [39m Generated: [35mjs/events.js[39m
+[32mINFO [39m Generated: [35mjs/color-schema.js[39m
+[32mINFO [39m Generated: [35mjs/img-lazyload.js[39m
+[32mINFO [39m Generated: [35mjs/code-unfold.js[39m
+[32mINFO [39m Generated: [35mjs/utils.js[39m
+[32mINFO [39m Generated: [35mjs/local-search.js[39m
+[32mINFO [39m Generated: [35mjs/plugins.js[39m
+[32mINFO [39m Generated: [35mjs/leancloud.js[39m
+[32mINFO [39m Generated: [35mcss/fluid-extention.css[39m
+[32mINFO [39m Generated: [35mlib/hbe.js[39m
+[32mINFO [39m Generated: [35mcss/highlight-dark.css[39m
+[32mINFO [39m Generated: [35mcss/gitalk.css[39m
+[32mINFO [39m Generated: [35mcss/highlight.css[39m
+[32mINFO [39m Generated: [35mcss/main.css[39m
+[32mINFO [39m Generated: [35mcss/hbe.style.css[39m
+[32mINFO [39m Generated: [35m2022/07/17/新增测试/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/12/用python写个颜值评分器筛选最美主播/index.html[39m
+[32mINFO [39m Generated: [35mimg/default.png[39m
+[32mINFO [39m Generated: [35m2022/07/17/博客加密文档/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频/index.html[39m
+[32mINFO [39m 42 files generated in [36m4.14 s[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Deploying: [35mgit[39m
+[32mINFO [39m Clearing .deploy_git folder...
+[32mINFO [39m Copying files from public folder...
+[32mINFO [39m Copying files from extend dirs...
+warning: LF will be replaced by CRLF in css/fluid-extention.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/gitalk.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/hbe.style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight-dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/main.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/boot.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/code-unfold.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/color-schema.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/events.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/img-lazyload.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/leancloud.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/local-search.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/plugins.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in lib/hbe.js.
+The file will have its original line endings in your working directory
+[master a5a4096] MuyanGit 的网站”更新“中······2022-07-22 09:17:32【https://PonyTown2020.github.io/ 】
+ 5 files changed, 5 insertions(+), 5 deletions(-)
+Branch 'master' set up to track remote branch 'master' from 'git@PonyTown2020:PonyTown2020/PonyTown2020.github.io.git'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   3872749..a5a4096  HEAD -> master
+[32mINFO [39m Deploy done: [35mgit[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Start backup: git
+warning: LF will be replaced by CRLF in 杂项/博客备份/2022-07-21log.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in 杂项/博客备份/2022-07-22log.txt.
+The file will have its original line endings in your working directory
+[master 2bc4f0f] MuyanGit 的网站”备份“中······2022-07-22 09:17:46【https://PonyTown2020.github.io/ 】
+ 2 files changed, 159 insertions(+)
+ create mode 100644 "\346\235\202\351\241\271/\345\215\232\345\256\242\345\244\207\344\273\275/2022-07-22log.txt\357\200\272"
+Branch 'master' set up to track remote branch 'backup' from 'github'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   963e7b1..2bc4f0f  master -> backup
+[32mINFO [39m Backup done: git
+MuyanGit博客备份
+结束运行备份命令——————————————
+Fri Jul 22 09:17:50 2022······备份结束中
+开始运行备份命令——————————————
+Fri Jul 22 09:18:07 2022······备份进行中
+[32mINFO [39m Validating config
+[32mINFO [39m Deleted database.
+[32mINFO [39m Deleted public folder.
+[32mINFO [39m Validating config
+[32mINFO [39m Start processing
+[32mINFO [39m hexo-blog-encrypt: encrypting "加密文档1" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "用python写个颜值评分器筛选最美主播" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m 
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+[32mINFO [39m Files loaded in [36m5.18 s[39m
+[32mINFO [39m neat the html: about/index.html [ 25.41% saved]
+[32mINFO [39m neat the html: 2022/07/17/新增测试/index.html [ 28.02% saved]
+[32mINFO [39m neat the html: 2022/07/17/博客加密文档/index.html [ 27.12% saved]
+[32mINFO [39m neat the html: 2021/11/12/用python写个颜值评分器筛选最美主播/index.html [ 8.10% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html [ 2.93% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频/index.html [ 2.89% saved]
+[32mINFO [39m neat the html: archives/index.html [ 24.36% saved]
+[32mINFO [39m neat the html: archives/2021/index.html [ 24.63% saved]
+[32mINFO [39m neat the html: archives/2021/10/index.html [ 25.04% saved]
+[32mINFO [39m neat the html: archives/2021/11/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: archives/2022/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: archives/2022/07/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: index.html [ 27.22% saved]
+[32mINFO [39m neat the html: categories/技术/index.html [ 24.29% saved]
+[32mINFO [39m neat the html: tags/加密/index.html [ 25.11% saved]
+[32mINFO [39m neat the html: 404.html [ 25.35% saved]
+[32mINFO [39m neat the html: tags/index.html [ 25.79% saved]
+[32mINFO [39m neat the html: categories/index.html [ 25.52% saved]
+[32mINFO [39m neat the html: links/index.html [ 26.35% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\fluid-extention.styl [ 30.24% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\gitalk.css [ 15.44% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight.styl [ 0.08% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight-dark.styl [ 0.16% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\main.styl [ 17.17% saved]
+[32mINFO [39m Generated: [35mabout/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/11/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/10/index.html[39m
+[32mINFO [39m Generated: [35marchives/index.html[39m
+[32mINFO [39m Generated: [35mtags/index.html[39m
+[32mINFO [39m Generated: [35mlocal-search.xml[39m
+[32mINFO [39m Generated: [35marchives/2022/index.html[39m
+[32mINFO [39m Generated: [35mlinks/index.html[39m
+[32mINFO [39m Generated: [35mcategories/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/index.html[39m
+[32mINFO [39m Generated: [35mindex.html[39m
+[32mINFO [39m Generated: [35m404.html[39m
+[32mINFO [39m Generated: [35mimg/loading.gif[39m
+[32mINFO [39m Generated: [35mxml/local-search.xml[39m
+[32mINFO [39m Generated: [35mimg/police_beian.png[39m
+[32mINFO [39m Generated: [35mimg/fluid.png[39m
+[32mINFO [39m Generated: [35mimg/avatar.png[39m
+[32mINFO [39m Generated: [35mcategories/技术/index.html[39m
+[32mINFO [39m Generated: [35mtags/加密/index.html[39m
+[32mINFO [39m Generated: [35mjs/boot.js[39m
+[32mINFO [39m Generated: [35mlib/hbe.js[39m
+[32mINFO [39m Generated: [35mcss/hbe.style.css[39m
+[32mINFO [39m Generated: [35mjs/code-unfold.js[39m
+[32mINFO [39m Generated: [35mjs/color-schema.js[39m
+[32mINFO [39m Generated: [35mjs/img-lazyload.js[39m
+[32mINFO [39m Generated: [35mjs/plugins.js[39m
+[32mINFO [39m Generated: [35mjs/events.js[39m
+[32mINFO [39m Generated: [35mjs/local-search.js[39m
+[32mINFO [39m Generated: [35mjs/utils.js[39m
+[32mINFO [39m Generated: [35mjs/leancloud.js[39m
+[32mINFO [39m Generated: [35mcss/fluid-extention.css[39m
+[32mINFO [39m Generated: [35mcss/gitalk.css[39m
+[32mINFO [39m Generated: [35mcss/highlight.css[39m
+[32mINFO [39m Generated: [35mcss/main.css[39m
+[32mINFO [39m Generated: [35mcss/highlight-dark.css[39m
+[32mINFO [39m Generated: [35m2022/07/17/博客加密文档/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/12/用python写个颜值评分器筛选最美主播/index.html[39m
+[32mINFO [39m Generated: [35mimg/default.png[39m
+[32mINFO [39m Generated: [35m2022/07/17/新增测试/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频/index.html[39m
+[32mINFO [39m 42 files generated in [36m2.94 s[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Deploying: [35mgit[39m
+[32mINFO [39m Clearing .deploy_git folder...
+[32mINFO [39m Copying files from public folder...
+[32mINFO [39m Copying files from extend dirs...
+warning: LF will be replaced by CRLF in css/fluid-extention.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/gitalk.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/hbe.style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight-dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/main.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/boot.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/code-unfold.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/color-schema.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/events.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/img-lazyload.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/leancloud.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/local-search.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/plugins.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in lib/hbe.js.
+The file will have its original line endings in your working directory
+[master 01b1809] MuyanGit 的网站”更新“中······2022-07-22 09:18:20【https://PonyTown2020.github.io/ 】
+ 5 files changed, 5 insertions(+), 5 deletions(-)
+Branch 'master' set up to track remote branch 'master' from 'git@PonyTown2020:PonyTown2020/PonyTown2020.github.io.git'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   a5a4096..01b1809  HEAD -> master
+[32mINFO [39m Deploy done: [35mgit[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Start backup: git
+warning: LF will be replaced by CRLF in 杂项/博客备份/2022-07-22log.txt.
+The file will have its original line endings in your working directory
+[master 75106a7] MuyanGit 的网站”备份“中······2022-07-22 09:18:25【https://PonyTown2020.github.io/ 】
+ 1 file changed, 153 insertions(+)
+Branch 'master' set up to track remote branch 'backup' from 'github'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   2bc4f0f..75106a7  master -> backup
+[32mINFO [39m Backup done: git
+开始运行备份命令——————————————
+Fri Jul 22 12:47:01 2022······备份进行中
+MuyanGit博客备份
+结束运行备份命令——————————————
+Fri Jul 22 12:47:01 2022······备份结束中
+[32mINFO [39m Validating config
+[32mINFO [39m Deleted database.
+[32mINFO [39m Deleted public folder.
+[32mINFO [39m Validating config
+[32mINFO [39m Start processing
+[32mINFO [39m hexo-blog-encrypt: encrypting "加密文档1" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "用python写个颜值评分器筛选最美主播" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m 
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+[32mINFO [39m Files loaded in [36m7.14 s[39m
+[32mINFO [39m neat the html: 2022/07/17/新增测试/index.html [ 28.02% saved]
+[32mINFO [39m neat the html: about/index.html [ 25.41% saved]
+[32mINFO [39m neat the html: 2022/07/17/博客加密文档/index.html [ 27.12% saved]
+[32mINFO [39m neat the html: 2021/11/12/用python写个颜值评分器筛选最美主播/index.html [ 8.10% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频/index.html [ 2.89% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html [ 2.93% saved]
+[32mINFO [39m neat the html: archives/2021/index.html [ 24.63% saved]
+[32mINFO [39m neat the html: archives/index.html [ 24.36% saved]
+[32mINFO [39m neat the html: archives/2021/10/index.html [ 25.04% saved]
+[32mINFO [39m neat the html: archives/2022/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: archives/2022/07/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: index.html [ 27.22% saved]
+[32mINFO [39m neat the html: archives/2021/11/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: categories/技术/index.html [ 24.29% saved]
+[32mINFO [39m neat the html: 404.html [ 25.35% saved]
+[32mINFO [39m neat the html: tags/加密/index.html [ 25.11% saved]
+[32mINFO [39m neat the html: tags/index.html [ 25.79% saved]
+[32mINFO [39m neat the html: categories/index.html [ 25.52% saved]
+[32mINFO [39m neat the html: links/index.html [ 26.35% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight-dark.styl [ 0.16% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight.styl [ 0.08% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\main.styl [ 17.17% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\fluid-extention.styl [ 30.24% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\gitalk.css [ 15.44% saved]
+[32mINFO [39m Generated: [35mlocal-search.xml[39m
+[32mINFO [39m Generated: [35mabout/index.html[39m
+[32mINFO [39m Generated: [35marchives/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/index.html[39m
+[32mINFO [39m Generated: [35mtags/index.html[39m
+[32mINFO [39m Generated: [35mcategories/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/index.html[39m
+[32mINFO [39m Generated: [35mlinks/index.html[39m
+[32mINFO [39m Generated: [35mindex.html[39m
+[32mINFO [39m Generated: [35mimg/avatar.png[39m
+[32mINFO [39m Generated: [35m404.html[39m
+[32mINFO [39m Generated: [35mcss/hbe.style.css[39m
+[32mINFO [39m Generated: [35mxml/local-search.xml[39m
+[32mINFO [39m Generated: [35mlib/hbe.js[39m
+[32mINFO [39m Generated: [35mimg/fluid.png[39m
+[32mINFO [39m Generated: [35mimg/police_beian.png[39m
+[32mINFO [39m Generated: [35mimg/loading.gif[39m
+[32mINFO [39m Generated: [35marchives/2021/10/index.html[39m
+[32mINFO [39m Generated: [35mjs/boot.js[39m
+[32mINFO [39m Generated: [35marchives/2021/11/index.html[39m
+[32mINFO [39m Generated: [35mtags/加密/index.html[39m
+[32mINFO [39m Generated: [35mcategories/技术/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/index.html[39m
+[32mINFO [39m Generated: [35mjs/img-lazyload.js[39m
+[32mINFO [39m Generated: [35mjs/color-schema.js[39m
+[32mINFO [39m Generated: [35mjs/events.js[39m
+[32mINFO [39m Generated: [35mjs/code-unfold.js[39m
+[32mINFO [39m Generated: [35mcss/highlight-dark.css[39m
+[32mINFO [39m Generated: [35mjs/local-search.js[39m
+[32mINFO [39m Generated: [35mjs/plugins.js[39m
+[32mINFO [39m Generated: [35mjs/leancloud.js[39m
+[32mINFO [39m Generated: [35mcss/highlight.css[39m
+[32mINFO [39m Generated: [35mcss/gitalk.css[39m
+[32mINFO [39m Generated: [35mcss/fluid-extention.css[39m
+[32mINFO [39m Generated: [35mjs/utils.js[39m
+[32mINFO [39m Generated: [35mcss/main.css[39m
+[32mINFO [39m Generated: [35m2022/07/17/新增测试/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/12/用python写个颜值评分器筛选最美主播/index.html[39m
+[32mINFO [39m Generated: [35mimg/default.png[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/博客加密文档/index.html[39m
+[32mINFO [39m 42 files generated in [36m3.24 s[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Deploying: [35mgit[39m
+[32mINFO [39m Clearing .deploy_git folder...
+[32mINFO [39m Copying files from public folder...
+[32mINFO [39m Copying files from extend dirs...
+warning: LF will be replaced by CRLF in css/fluid-extention.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/gitalk.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/hbe.style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight-dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/main.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/boot.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/code-unfold.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/color-schema.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/events.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/img-lazyload.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/leancloud.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/local-search.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/plugins.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in lib/hbe.js.
+The file will have its original line endings in your working directory
+[master 301fb8b] MuyanGit 的网站”更新“中······2022-07-22 12:48:09【https://PonyTown2020.github.io/ 】
+ 5 files changed, 5 insertions(+), 5 deletions(-)
+Branch 'master' set up to track remote branch 'master' from 'git@PonyTown2020:PonyTown2020/PonyTown2020.github.io.git'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   01b1809..301fb8b  HEAD -> master
+[32mINFO [39m Deploy done: [35mgit[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Start backup: git
+warning: LF will be replaced by CRLF in 杂项/博客备份/2022-07-22log.txt.
+The file will have its original line endings in your working directory
+[master df15297] MuyanGit 的网站”备份“中······2022-07-22 12:48:50【https://PonyTown2020.github.io/ 】
+ 1 file changed, 150 insertions(+)
+Branch 'master' set up to track remote branch 'backup' from 'github'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   75106a7..df15297  master -> backup
+[32mINFO [39m Backup done: git
+MuyanGit博客备份
+结束运行备份命令——————————————
+Fri Jul 22 12:48:56 2022······备份结束中
+开始运行备份命令——————————————
+Fri Jul 22 15:31:11 2022······备份进行中
+[32mINFO [39m Validating config
+[32mINFO [39m Deleted database.
+[32mINFO [39m Deleted public folder.
+[32mINFO [39m Validating config
+[32mINFO [39m Start processing
+[32mINFO [39m hexo-blog-encrypt: encrypting "加密文档1" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "用python写个颜值评分器筛选最美主播" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m 
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+[32mINFO [39m Files loaded in [36m6.27 s[39m
+[32mINFO [39m neat the html: about/index.html [ 25.41% saved]
+[32mINFO [39m neat the html: 2022/07/17/博客加密文档/index.html [ 27.12% saved]
+[32mINFO [39m neat the html: 2022/07/17/新增测试/index.html [ 28.02% saved]
+[32mINFO [39m neat the html: 2021/11/12/用python写个颜值评分器筛选最美主播/index.html [ 8.10% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html [ 2.93% saved]
+[32mINFO [39m neat the html: archives/index.html [ 24.36% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频/index.html [ 2.89% saved]
+[32mINFO [39m neat the html: archives/2021/index.html [ 24.63% saved]
+[32mINFO [39m neat the html: archives/2021/10/index.html [ 25.04% saved]
+[32mINFO [39m neat the html: archives/2022/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: archives/2021/11/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: archives/2022/07/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: categories/技术/index.html [ 24.29% saved]
+[32mINFO [39m neat the html: index.html [ 27.22% saved]
+[32mINFO [39m neat the html: tags/加密/index.html [ 25.11% saved]
+[32mINFO [39m neat the html: 404.html [ 25.35% saved]
+[32mINFO [39m neat the html: tags/index.html [ 25.79% saved]
+[32mINFO [39m neat the html: categories/index.html [ 25.52% saved]
+[32mINFO [39m neat the html: links/index.html [ 26.35% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\fluid-extention.styl [ 30.24% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight-dark.styl [ 0.16% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\gitalk.css [ 15.44% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight.styl [ 0.08% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\main.styl [ 17.17% saved]
+[32mINFO [39m Generated: [35mabout/index.html[39m
+[32mINFO [39m Generated: [35marchives/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/10/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/11/index.html[39m
+[32mINFO [39m Generated: [35mlocal-search.xml[39m
+[32mINFO [39m Generated: [35marchives/2022/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/index.html[39m
+[32mINFO [39m Generated: [35mcategories/index.html[39m
+[32mINFO [39m Generated: [35mimg/fluid.png[39m
+[32mINFO [39m Generated: [35mlinks/index.html[39m
+[32mINFO [39m Generated: [35mxml/local-search.xml[39m
+[32mINFO [39m Generated: [35mindex.html[39m
+[32mINFO [39m Generated: [35m404.html[39m
+[32mINFO [39m Generated: [35mtags/index.html[39m
+[32mINFO [39m Generated: [35mimg/police_beian.png[39m
+[32mINFO [39m Generated: [35mimg/loading.gif[39m
+[32mINFO [39m Generated: [35mimg/avatar.png[39m
+[32mINFO [39m Generated: [35mlib/hbe.js[39m
+[32mINFO [39m Generated: [35mjs/boot.js[39m
+[32mINFO [39m Generated: [35mcss/hbe.style.css[39m
+[32mINFO [39m Generated: [35mcategories/技术/index.html[39m
+[32mINFO [39m Generated: [35mtags/加密/index.html[39m
+[32mINFO [39m Generated: [35mjs/events.js[39m
+[32mINFO [39m Generated: [35mjs/img-lazyload.js[39m
+[32mINFO [39m Generated: [35mjs/color-schema.js[39m
+[32mINFO [39m Generated: [35mjs/code-unfold.js[39m
+[32mINFO [39m Generated: [35mjs/plugins.js[39m
+[32mINFO [39m Generated: [35mjs/local-search.js[39m
+[32mINFO [39m Generated: [35mjs/utils.js[39m
+[32mINFO [39m Generated: [35mjs/leancloud.js[39m
+[32mINFO [39m Generated: [35mcss/fluid-extention.css[39m
+[32mINFO [39m Generated: [35mcss/highlight-dark.css[39m
+[32mINFO [39m Generated: [35mcss/gitalk.css[39m
+[32mINFO [39m Generated: [35mcss/highlight.css[39m
+[32mINFO [39m Generated: [35mcss/main.css[39m
+[32mINFO [39m Generated: [35m2022/07/17/博客加密文档/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/12/用python写个颜值评分器筛选最美主播/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频/index.html[39m
+[32mINFO [39m Generated: [35mimg/default.png[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/新增测试/index.html[39m
+[32mINFO [39m 42 files generated in [36m3.32 s[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Deploying: [35mgit[39m
+[32mINFO [39m Clearing .deploy_git folder...
+[32mINFO [39m Copying files from public folder...
+[32mINFO [39m Copying files from extend dirs...
+warning: LF will be replaced by CRLF in css/fluid-extention.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/gitalk.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/hbe.style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight-dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/main.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/boot.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/code-unfold.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/color-schema.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/events.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/img-lazyload.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/leancloud.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/local-search.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/plugins.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in lib/hbe.js.
+The file will have its original line endings in your working directory
+[master 23295e5] MuyanGit 的网站”更新“中······2022-07-22 15:31:27【https://PonyTown2020.github.io/ 】
+ 5 files changed, 5 insertions(+), 5 deletions(-)
+Branch 'master' set up to track remote branch 'master' from 'git@PonyTown2020:PonyTown2020/PonyTown2020.github.io.git'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   301fb8b..23295e5  HEAD -> master
+[32mINFO [39m Deploy done: [35mgit[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Start backup: git
+warning: LF will be replaced by CRLF in 杂项/博客备份/2022-07-22log.txt.
+The file will have its original line endings in your working directory
+[master b78f71f] MuyanGit 的网站”备份“中······2022-07-22 15:31:34【https://PonyTown2020.github.io/ 】
+ 1 file changed, 150 insertions(+)
+Branch 'master' set up to track remote branch 'backup' from 'github'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   df15297..b78f71f  master -> backup
+[32mINFO [39m Backup done: git
+MuyanGit博客备份
+结束运行备份命令——————————————
+Fri Jul 22 15:31:37 2022······备份结束中
+开始运行备份命令——————————————
+Fri Jul 22 20:09:07 2022······备份进行中
+[32mINFO [39m Validating config
+[32mINFO [39m Deleted database.
+[32mINFO [39m Deleted public folder.
+[32mINFO [39m Validating config
+[32mINFO [39m Start processing
+[32mINFO [39m hexo-blog-encrypt: encrypting "加密文档1" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "用python写个颜值评分器筛选最美主播" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m 
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+[32mINFO [39m Files loaded in [36m7.14 s[39m
+[32mINFO [39m neat the html: about/index.html [ 25.41% saved]
+[32mINFO [39m neat the html: 2022/07/17/博客加密文档/index.html [ 27.12% saved]
+[32mINFO [39m neat the html: 2022/07/17/新增测试/index.html [ 28.02% saved]
+[32mINFO [39m neat the html: 2021/11/12/用python写个颜值评分器筛选最美主播/index.html [ 8.10% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html [ 2.93% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频/index.html [ 2.89% saved]
+[32mINFO [39m neat the html: archives/index.html [ 24.36% saved]
+[32mINFO [39m neat the html: archives/2021/index.html [ 24.63% saved]
+[32mINFO [39m neat the html: archives/2021/10/index.html [ 25.04% saved]
+[32mINFO [39m neat the html: archives/2021/11/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: archives/2022/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: archives/2022/07/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: categories/技术/index.html [ 24.29% saved]
+[32mINFO [39m neat the html: index.html [ 27.22% saved]
+[32mINFO [39m neat the html: tags/加密/index.html [ 25.11% saved]
+[32mINFO [39m neat the html: 404.html [ 25.35% saved]
+[32mINFO [39m neat the html: tags/index.html [ 25.79% saved]
+[32mINFO [39m neat the html: categories/index.html [ 25.52% saved]
+[32mINFO [39m neat the html: links/index.html [ 26.35% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\fluid-extention.styl [ 30.24% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\gitalk.css [ 15.44% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight.styl [ 0.08% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight-dark.styl [ 0.16% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\main.styl [ 17.17% saved]
+[32mINFO [39m Generated: [35mabout/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/index.html[39m
+[32mINFO [39m Generated: [35marchives/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/10/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/11/index.html[39m
+[32mINFO [39m Generated: [35mlocal-search.xml[39m
+[32mINFO [39m Generated: [35marchives/2022/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/index.html[39m
+[32mINFO [39m Generated: [35mtags/index.html[39m
+[32mINFO [39m Generated: [35mcategories/index.html[39m
+[32mINFO [39m Generated: [35mxml/local-search.xml[39m
+[32mINFO [39m Generated: [35mlinks/index.html[39m
+[32mINFO [39m Generated: [35mindex.html[39m
+[32mINFO [39m Generated: [35mimg/avatar.png[39m
+[32mINFO [39m Generated: [35m404.html[39m
+[32mINFO [39m Generated: [35mimg/fluid.png[39m
+[32mINFO [39m Generated: [35mimg/loading.gif[39m
+[32mINFO [39m Generated: [35mimg/police_beian.png[39m
+[32mINFO [39m Generated: [35mjs/boot.js[39m
+[32mINFO [39m Generated: [35mcategories/技术/index.html[39m
+[32mINFO [39m Generated: [35mtags/加密/index.html[39m
+[32mINFO [39m Generated: [35mjs/color-schema.js[39m
+[32mINFO [39m Generated: [35mcss/fluid-extention.css[39m
+[32mINFO [39m Generated: [35mjs/leancloud.js[39m
+[32mINFO [39m Generated: [35mjs/img-lazyload.js[39m
+[32mINFO [39m Generated: [35mjs/code-unfold.js[39m
+[32mINFO [39m Generated: [35mjs/events.js[39m
+[32mINFO [39m Generated: [35mlib/hbe.js[39m
+[32mINFO [39m Generated: [35mcss/gitalk.css[39m
+[32mINFO [39m Generated: [35mjs/plugins.js[39m
+[32mINFO [39m Generated: [35mjs/local-search.js[39m
+[32mINFO [39m Generated: [35mcss/highlight.css[39m
+[32mINFO [39m Generated: [35mcss/highlight-dark.css[39m
+[32mINFO [39m Generated: [35mcss/main.css[39m
+[32mINFO [39m Generated: [35mcss/hbe.style.css[39m
+[32mINFO [39m Generated: [35mjs/utils.js[39m
+[32mINFO [39m Generated: [35m2022/07/17/新增测试/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/12/用python写个颜值评分器筛选最美主播/index.html[39m
+[32mINFO [39m Generated: [35mimg/default.png[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/博客加密文档/index.html[39m
+[32mINFO [39m 42 files generated in [36m2.53 s[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Deploying: [35mgit[39m
+[32mINFO [39m Clearing .deploy_git folder...
+[32mINFO [39m Copying files from public folder...
+[32mINFO [39m Copying files from extend dirs...
+warning: LF will be replaced by CRLF in css/fluid-extention.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/gitalk.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/hbe.style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight-dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/main.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/boot.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/code-unfold.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/color-schema.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/events.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/img-lazyload.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/leancloud.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/local-search.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/plugins.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in lib/hbe.js.
+The file will have its original line endings in your working directory
+[master 823e7da] MuyanGit 的网站”更新“中······2022-07-22 20:09:22【https://PonyTown2020.github.io/ 】
+ 5 files changed, 5 insertions(+), 5 deletions(-)
+Branch 'master' set up to track remote branch 'master' from 'git@PonyTown2020:PonyTown2020/PonyTown2020.github.io.git'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   23295e5..823e7da  HEAD -> master
+[32mINFO [39m Deploy done: [35mgit[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Start backup: git
+warning: LF will be replaced by CRLF in 杂项/博客备份/2022-07-22log.txt.
+The file will have its original line endings in your working directory
+[master b9ed535] MuyanGit 的网站”备份“中······2022-07-22 20:09:28【https://PonyTown2020.github.io/ 】
+ 1 file changed, 150 insertions(+)
+Branch 'master' set up to track remote branch 'backup' from 'github'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   b78f71f..b9ed535  master -> backup
+[32mINFO [39m Backup done: git
+MuyanGit博客备份
+结束运行备份命令——————————————
+Fri Jul 22 20:09:32 2022······备份结束中
+开始运行备份命令——————————————
+Fri Jul 22 20:18:06 2022······备份进行中
+[32mINFO [39m Validating config
+[32mINFO [39m Deleted database.
+[32mINFO [39m Deleted public folder.
+[32mINFO [39m Validating config
+[32mINFO [39m Start processing
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "加密文档1" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "用python写个颜值评分器筛选最美主播" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m 
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+[32mINFO [39m Files loaded in [36m5.27 s[39m
+[32mINFO [39m neat the html: about/index.html [ 25.41% saved]
+[32mINFO [39m neat the html: 2022/07/17/新增测试/index.html [ 28.02% saved]
+[32mINFO [39m neat the html: 2022/07/17/博客加密文档/index.html [ 27.12% saved]
+[32mINFO [39m neat the html: 2021/11/12/用python写个颜值评分器筛选最美主播/index.html [ 8.10% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html [ 2.93% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频/index.html [ 2.89% saved]
+[32mINFO [39m neat the html: archives/index.html [ 24.36% saved]
+[32mINFO [39m neat the html: archives/2021/index.html [ 24.63% saved]
+[32mINFO [39m neat the html: archives/2021/10/index.html [ 25.04% saved]
+[32mINFO [39m neat the html: archives/2021/11/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: archives/2022/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: archives/2022/07/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: categories/技术/index.html [ 24.29% saved]
+[32mINFO [39m neat the html: index.html [ 27.22% saved]
+[32mINFO [39m neat the html: tags/加密/index.html [ 25.11% saved]
+[32mINFO [39m neat the html: 404.html [ 25.35% saved]
+[32mINFO [39m neat the html: tags/index.html [ 25.79% saved]
+[32mINFO [39m neat the html: categories/index.html [ 25.52% saved]
+[32mINFO [39m neat the html: links/index.html [ 26.35% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight-dark.styl [ 0.16% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight.styl [ 0.08% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\main.styl [ 17.17% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\fluid-extention.styl [ 30.24% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\gitalk.css [ 15.44% saved]
+[32mINFO [39m Generated: [35mabout/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/11/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/10/index.html[39m
+[32mINFO [39m Generated: [35marchives/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/index.html[39m
+[32mINFO [39m Generated: [35mtags/index.html[39m
+[32mINFO [39m Generated: [35mcategories/index.html[39m
+[32mINFO [39m Generated: [35mlinks/index.html[39m
+[32mINFO [39m Generated: [35mlocal-search.xml[39m
+[32mINFO [39m Generated: [35m404.html[39m
+[32mINFO [39m Generated: [35mindex.html[39m
+[32mINFO [39m Generated: [35mcss/hbe.style.css[39m
+[32mINFO [39m Generated: [35mxml/local-search.xml[39m
+[32mINFO [39m Generated: [35mimg/avatar.png[39m
+[32mINFO [39m Generated: [35mlib/hbe.js[39m
+[32mINFO [39m Generated: [35mimg/fluid.png[39m
+[32mINFO [39m Generated: [35mimg/loading.gif[39m
+[32mINFO [39m Generated: [35mimg/police_beian.png[39m
+[32mINFO [39m Generated: [35mcategories/技术/index.html[39m
+[32mINFO [39m Generated: [35mjs/code-unfold.js[39m
+[32mINFO [39m Generated: [35mtags/加密/index.html[39m
+[32mINFO [39m Generated: [35mjs/img-lazyload.js[39m
+[32mINFO [39m Generated: [35mjs/boot.js[39m
+[32mINFO [39m Generated: [35mjs/events.js[39m
+[32mINFO [39m Generated: [35mjs/color-schema.js[39m
+[32mINFO [39m Generated: [35mjs/local-search.js[39m
+[32mINFO [39m Generated: [35mjs/leancloud.js[39m
+[32mINFO [39m Generated: [35mjs/plugins.js[39m
+[32mINFO [39m Generated: [35mcss/main.css[39m
+[32mINFO [39m Generated: [35mcss/gitalk.css[39m
+[32mINFO [39m Generated: [35m2022/07/17/新增测试/index.html[39m
+[32mINFO [39m Generated: [35mcss/fluid-extention.css[39m
+[32mINFO [39m Generated: [35mcss/highlight.css[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/12/用python写个颜值评分器筛选最美主播/index.html[39m
+[32mINFO [39m Generated: [35mjs/utils.js[39m
+[32mINFO [39m Generated: [35mcss/highlight-dark.css[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/博客加密文档/index.html[39m
+[32mINFO [39m Generated: [35mimg/default.png[39m
+[32mINFO [39m 42 files generated in [36m2.28 s[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Deploying: [35mgit[39m
+[32mINFO [39m Clearing .deploy_git folder...
+[32mINFO [39m Copying files from public folder...
+[32mINFO [39m Copying files from extend dirs...
+warning: LF will be replaced by CRLF in css/fluid-extention.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/gitalk.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/hbe.style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight-dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/main.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/boot.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/code-unfold.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/color-schema.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/events.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/img-lazyload.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/leancloud.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/local-search.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/plugins.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in lib/hbe.js.
+The file will have its original line endings in your working directory
+[master 78f4ed4] MuyanGit 的网站”更新“中······2022-07-22 20:19:15【https://PonyTown2020.github.io/ 】
+ 5 files changed, 5 insertions(+), 5 deletions(-)
+Branch 'master' set up to track remote branch 'master' from 'git@PonyTown2020:PonyTown2020/PonyTown2020.github.io.git'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   823e7da..78f4ed4  HEAD -> master
+[32mINFO [39m Deploy done: [35mgit[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Start backup: git
+warning: LF will be replaced by CRLF in 杂项/博客备份/2022-07-22log.txt.
+The file will have its original line endings in your working directory
+[master 8c5af71] MuyanGit 的网站”备份“中······2022-07-22 20:19:35【https://PonyTown2020.github.io/ 】
+ 1 file changed, 150 insertions(+)
+Branch 'master' set up to track remote branch 'backup' from 'github'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   b9ed535..8c5af71  master -> backup
+[32mINFO [39m Backup done: git
+MuyanGit博客备份
+结束运行备份命令——————————————
+Fri Jul 22 20:19:42 2022······备份结束中
+开始运行备份命令——————————————
+Fri Jul 22 20:29:37 2022······备份进行中
+[32mINFO [39m Validating config
+[32mINFO [39m Deleted database.
+[32mINFO [39m Deleted public folder.
+[32mINFO [39m Validating config
+[32mINFO [39m Start processing
+[32mINFO [39m hexo-blog-encrypt: encrypting "加密文档1" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "用python写个颜值评分器筛选最美主播" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m 
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+[32mINFO [39m Files loaded in [36m6.51 s[39m
+[32mINFO [39m neat the html: about/index.html [ 25.41% saved]
+[32mINFO [39m neat the html: 2022/07/17/新增测试/index.html [ 28.02% saved]
+[32mINFO [39m neat the html: 2022/07/17/博客加密文档/index.html [ 27.12% saved]
+[32mINFO [39m neat the html: 2021/11/12/用python写个颜值评分器筛选最美主播/index.html [ 8.10% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html [ 2.93% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频/index.html [ 2.89% saved]
+[32mINFO [39m neat the html: archives/index.html [ 24.36% saved]
+[32mINFO [39m neat the html: archives/2021/index.html [ 24.63% saved]
+[32mINFO [39m neat the html: archives/2021/10/index.html [ 25.04% saved]
+[32mINFO [39m neat the html: archives/2021/11/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: archives/2022/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: archives/2022/07/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: categories/技术/index.html [ 24.29% saved]
+[32mINFO [39m neat the html: index.html [ 27.22% saved]
+[32mINFO [39m neat the html: tags/加密/index.html [ 25.11% saved]
+[32mINFO [39m neat the html: 404.html [ 25.35% saved]
+[32mINFO [39m neat the html: tags/index.html [ 25.79% saved]
+[32mINFO [39m neat the html: categories/index.html [ 25.52% saved]
+[32mINFO [39m neat the html: links/index.html [ 26.35% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\fluid-extention.styl [ 30.24% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\gitalk.css [ 15.44% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight-dark.styl [ 0.16% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight.styl [ 0.08% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\main.styl [ 17.17% saved]
+[32mINFO [39m Generated: [35mabout/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/index.html[39m
+[32mINFO [39m Generated: [35marchives/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/10/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/index.html[39m
+[32mINFO [39m Generated: [35mtags/index.html[39m
+[32mINFO [39m Generated: [35mlocal-search.xml[39m
+[32mINFO [39m Generated: [35mindex.html[39m
+[32mINFO [39m Generated: [35m404.html[39m
+[32mINFO [39m Generated: [35mxml/local-search.xml[39m
+[32mINFO [39m Generated: [35mcategories/index.html[39m
+[32mINFO [39m Generated: [35mimg/avatar.png[39m
+[32mINFO [39m Generated: [35marchives/2021/11/index.html[39m
+[32mINFO [39m Generated: [35mlib/hbe.js[39m
+[32mINFO [39m Generated: [35mjs/boot.js[39m
+[32mINFO [39m Generated: [35mcss/hbe.style.css[39m
+[32mINFO [39m Generated: [35mimg/fluid.png[39m
+[32mINFO [39m Generated: [35mimg/loading.gif[39m
+[32mINFO [39m Generated: [35mlinks/index.html[39m
+[32mINFO [39m Generated: [35mtags/加密/index.html[39m
+[32mINFO [39m Generated: [35mimg/police_beian.png[39m
+[32mINFO [39m Generated: [35mcategories/技术/index.html[39m
+[32mINFO [39m Generated: [35mjs/code-unfold.js[39m
+[32mINFO [39m Generated: [35mjs/color-schema.js[39m
+[32mINFO [39m Generated: [35mjs/events.js[39m
+[32mINFO [39m Generated: [35mjs/plugins.js[39m
+[32mINFO [39m Generated: [35mjs/leancloud.js[39m
+[32mINFO [39m Generated: [35mjs/img-lazyload.js[39m
+[32mINFO [39m Generated: [35mjs/local-search.js[39m
+[32mINFO [39m Generated: [35mjs/utils.js[39m
+[32mINFO [39m Generated: [35mcss/gitalk.css[39m
+[32mINFO [39m Generated: [35mcss/highlight.css[39m
+[32mINFO [39m Generated: [35mcss/highlight-dark.css[39m
+[32mINFO [39m Generated: [35mcss/fluid-extention.css[39m
+[32mINFO [39m Generated: [35mcss/main.css[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/新增测试/index.html[39m
+[32mINFO [39m Generated: [35m2021/11/12/用python写个颜值评分器筛选最美主播/index.html[39m
+[32mINFO [39m Generated: [35mimg/default.png[39m
+[32mINFO [39m Generated: [35m2022/07/17/博客加密文档/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频/index.html[39m
+[32mINFO [39m 42 files generated in [36m4.27 s[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Deploying: [35mgit[39m
+[32mINFO [39m Clearing .deploy_git folder...
+[32mINFO [39m Copying files from public folder...
+[32mINFO [39m Copying files from extend dirs...
+warning: LF will be replaced by CRLF in css/fluid-extention.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/gitalk.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/hbe.style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight-dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/main.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/boot.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/code-unfold.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/color-schema.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/events.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/img-lazyload.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/leancloud.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/local-search.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/plugins.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in lib/hbe.js.
+The file will have its original line endings in your working directory
+[master 718baff] MuyanGit 的网站”更新“中······2022-07-22 20:30:37【https://PonyTown2020.github.io/ 】
+ 5 files changed, 5 insertions(+), 5 deletions(-)
+Branch 'master' set up to track remote branch 'master' from 'git@PonyTown2020:PonyTown2020/PonyTown2020.github.io.git'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   78f4ed4..718baff  HEAD -> master
+[32mINFO [39m Deploy done: [35mgit[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Start backup: git
+warning: LF will be replaced by CRLF in 杂项/博客备份/2022-07-22log.txt.
+The file will have its original line endings in your working directory
+[master d8a9caf] MuyanGit 的网站”备份“中······2022-07-22 20:30:48【https://PonyTown2020.github.io/ 】
+ 1 file changed, 150 insertions(+)
+Branch 'master' set up to track remote branch 'backup' from 'github'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   8c5af71..d8a9caf  master -> backup
+[32mINFO [39m Backup done: git
+MuyanGit博客备份
+结束运行备份命令——————————————
+Fri Jul 22 20:30:51 2022······备份结束中
+开始运行备份命令——————————————
+Fri Jul 22 21:18:07 2022······备份进行中
+[32mINFO [39m Validating config
+[32mINFO [39m Deleted database.
+[32mINFO [39m Deleted public folder.
+[32mINFO [39m Validating config
+[32mINFO [39m Start processing
+[32mINFO [39m hexo-blog-encrypt: encrypting "加密文档1" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "用python写个颜值评分器筛选最美主播" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m 
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+[32mINFO [39m Files loaded in [36m7.43 s[39m
+[32mINFO [39m neat the html: about/index.html [ 25.41% saved]
+[32mINFO [39m neat the html: 2022/07/17/新增测试/index.html [ 28.02% saved]
+[32mINFO [39m neat the html: 2022/07/17/博客加密文档/index.html [ 27.12% saved]
+[32mINFO [39m neat the html: 2021/11/12/用python写个颜值评分器筛选最美主播/index.html [ 8.10% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html [ 2.93% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频/index.html [ 2.89% saved]
+[32mINFO [39m neat the html: archives/index.html [ 24.36% saved]
+[32mINFO [39m neat the html: archives/2021/index.html [ 24.63% saved]
+[32mINFO [39m neat the html: archives/2021/10/index.html [ 25.04% saved]
+[32mINFO [39m neat the html: archives/2021/11/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: archives/2022/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: archives/2022/07/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: categories/技术/index.html [ 24.29% saved]
+[32mINFO [39m neat the html: index.html [ 27.22% saved]
+[32mINFO [39m neat the html: tags/加密/index.html [ 25.11% saved]
+[32mINFO [39m neat the html: 404.html [ 25.35% saved]
+[32mINFO [39m neat the html: tags/index.html [ 25.79% saved]
+[32mINFO [39m neat the html: categories/index.html [ 25.52% saved]
+[32mINFO [39m neat the html: links/index.html [ 26.35% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight-dark.styl [ 0.16% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\main.styl [ 17.17% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight.styl [ 0.08% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\fluid-extention.styl [ 30.24% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\gitalk.css [ 15.44% saved]
+[32mINFO [39m Generated: [35mabout/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/11/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/10/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/index.html[39m
+[32mINFO [39m Generated: [35marchives/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/index.html[39m
+[32mINFO [39m Generated: [35mtags/index.html[39m
+[32mINFO [39m Generated: [35mcategories/index.html[39m
+[32mINFO [39m Generated: [35mlinks/index.html[39m
+[32mINFO [39m Generated: [35mlocal-search.xml[39m
+[32mINFO [39m Generated: [35m404.html[39m
+[32mINFO [39m Generated: [35mxml/local-search.xml[39m
+[32mINFO [39m Generated: [35mindex.html[39m
+[32mINFO [39m Generated: [35mimg/avatar.png[39m
+[32mINFO [39m Generated: [35mimg/loading.gif[39m
+[32mINFO [39m Generated: [35mcss/hbe.style.css[39m
+[32mINFO [39m Generated: [35mimg/fluid.png[39m
+[32mINFO [39m Generated: [35mlib/hbe.js[39m
+[32mINFO [39m Generated: [35mtags/加密/index.html[39m
+[32mINFO [39m Generated: [35mimg/police_beian.png[39m
+[32mINFO [39m Generated: [35mjs/boot.js[39m
+[32mINFO [39m Generated: [35mcategories/技术/index.html[39m
+[32mINFO [39m Generated: [35mjs/code-unfold.js[39m
+[32mINFO [39m Generated: [35mjs/color-schema.js[39m
+[32mINFO [39m Generated: [35mjs/img-lazyload.js[39m
+[32mINFO [39m Generated: [35mjs/leancloud.js[39m
+[32mINFO [39m Generated: [35mjs/plugins.js[39m
+[32mINFO [39m Generated: [35mjs/utils.js[39m
+[32mINFO [39m Generated: [35mjs/events.js[39m
+[32mINFO [39m Generated: [35mjs/local-search.js[39m
+[32mINFO [39m Generated: [35mcss/highlight-dark.css[39m
+[32mINFO [39m Generated: [35mcss/highlight.css[39m
+[32mINFO [39m Generated: [35mcss/fluid-extention.css[39m
+[32mINFO [39m Generated: [35mcss/gitalk.css[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html[39m
+[32mINFO [39m Generated: [35mcss/main.css[39m
+[32mINFO [39m Generated: [35m2021/11/12/用python写个颜值评分器筛选最美主播/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/新增测试/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/博客加密文档/index.html[39m
+[32mINFO [39m Generated: [35mimg/default.png[39m
+[32mINFO [39m 42 files generated in [36m3.07 s[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Deploying: [35mgit[39m
+[32mINFO [39m Clearing .deploy_git folder...
+[32mINFO [39m Copying files from public folder...
+[32mINFO [39m Copying files from extend dirs...
+warning: LF will be replaced by CRLF in css/fluid-extention.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/gitalk.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/hbe.style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight-dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/main.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/boot.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/code-unfold.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/color-schema.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/events.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/img-lazyload.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/leancloud.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/local-search.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/plugins.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in lib/hbe.js.
+The file will have its original line endings in your working directory
+[master bab7deb] MuyanGit 的网站”更新“中······2022-07-22 21:19:36【https://PonyTown2020.github.io/ 】
+ 5 files changed, 5 insertions(+), 5 deletions(-)
+Branch 'master' set up to track remote branch 'master' from 'git@PonyTown2020:PonyTown2020/PonyTown2020.github.io.git'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   718baff..bab7deb  HEAD -> master
+[32mINFO [39m Deploy done: [35mgit[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Start backup: git
+warning: LF will be replaced by CRLF in 杂项/博客备份/2022-07-22log.txt.
+The file will have its original line endings in your working directory
+[master 62b88ea] MuyanGit 的网站”备份“中······2022-07-22 21:20:12【https://PonyTown2020.github.io/ 】
+ 1 file changed, 150 insertions(+)
+Branch 'master' set up to track remote branch 'backup' from 'github'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   d8a9caf..62b88ea  master -> backup
+[32mINFO [39m Backup done: git
+MuyanGit博客备份
+结束运行备份命令——————————————
+Fri Jul 22 21:20:18 2022······备份结束中
+开始运行备份命令——————————————
+Fri Jul 22 22:18:13 2022······备份进行中
+[32mINFO [39m Validating config
+[32mINFO [39m Deleted database.
+[32mINFO [39m Deleted public folder.
+[32mINFO [39m Validating config
+[32mINFO [39m Start processing
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "加密文档1" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "用python写个颜值评分器筛选最美主播" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m 
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+[32mINFO [39m Files loaded in [36m7.81 s[39m
+[32mINFO [39m neat the html: about/index.html [ 25.41% saved]
+[32mINFO [39m neat the html: 2022/07/17/新增测试/index.html [ 28.02% saved]
+[32mINFO [39m neat the html: 2022/07/17/博客加密文档/index.html [ 27.12% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html [ 2.93% saved]
+[32mINFO [39m neat the html: 2021/11/12/用python写个颜值评分器筛选最美主播/index.html [ 8.10% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频/index.html [ 2.89% saved]
+[32mINFO [39m neat the html: archives/index.html [ 24.36% saved]
+[32mINFO [39m neat the html: archives/2021/10/index.html [ 25.04% saved]
+[32mINFO [39m neat the html: archives/2021/index.html [ 24.63% saved]
+[32mINFO [39m neat the html: archives/2021/11/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: archives/2022/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: archives/2022/07/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: categories/技术/index.html [ 24.29% saved]
+[32mINFO [39m neat the html: index.html [ 27.22% saved]
+[32mINFO [39m neat the html: tags/加密/index.html [ 25.11% saved]
+[32mINFO [39m neat the html: 404.html [ 25.35% saved]
+[32mINFO [39m neat the html: tags/index.html [ 25.79% saved]
+[32mINFO [39m neat the html: categories/index.html [ 25.52% saved]
+[32mINFO [39m neat the html: links/index.html [ 26.35% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\fluid-extention.styl [ 30.24% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\gitalk.css [ 15.44% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight-dark.styl [ 0.16% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight.styl [ 0.08% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\main.styl [ 17.17% saved]
+[32mINFO [39m Generated: [35marchives/2021/index.html[39m
+[32mINFO [39m Generated: [35mabout/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/11/index.html[39m
+[32mINFO [39m Generated: [35marchives/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/index.html[39m
+[32mINFO [39m Generated: [35mlocal-search.xml[39m
+[32mINFO [39m Generated: [35mtags/index.html[39m
+[32mINFO [39m Generated: [35mcategories/index.html[39m
+[32mINFO [39m Generated: [35mlinks/index.html[39m
+[32mINFO [39m Generated: [35mindex.html[39m
+[32mINFO [39m Generated: [35m404.html[39m
+[32mINFO [39m Generated: [35mimg/avatar.png[39m
+[32mINFO [39m Generated: [35mxml/local-search.xml[39m
+[32mINFO [39m Generated: [35mimg/fluid.png[39m
+[32mINFO [39m Generated: [35mimg/police_beian.png[39m
+[32mINFO [39m Generated: [35mimg/loading.gif[39m
+[32mINFO [39m Generated: [35marchives/2021/10/index.html[39m
+[32mINFO [39m Generated: [35mtags/加密/index.html[39m
+[32mINFO [39m Generated: [35mcategories/技术/index.html[39m
+[32mINFO [39m Generated: [35mjs/boot.js[39m
+[32mINFO [39m Generated: [35mcss/hbe.style.css[39m
+[32mINFO [39m Generated: [35mlib/hbe.js[39m
+[32mINFO [39m Generated: [35mjs/code-unfold.js[39m
+[32mINFO [39m Generated: [35mjs/img-lazyload.js[39m
+[32mINFO [39m Generated: [35mjs/events.js[39m
+[32mINFO [39m Generated: [35mjs/color-schema.js[39m
+[32mINFO [39m Generated: [35mjs/leancloud.js[39m
+[32mINFO [39m Generated: [35mjs/local-search.js[39m
+[32mINFO [39m Generated: [35mjs/utils.js[39m
+[32mINFO [39m Generated: [35mjs/plugins.js[39m
+[32mINFO [39m Generated: [35mcss/gitalk.css[39m
+[32mINFO [39m Generated: [35mcss/fluid-extention.css[39m
+[32mINFO [39m Generated: [35mcss/highlight-dark.css[39m
+[32mINFO [39m Generated: [35mcss/main.css[39m
+[32mINFO [39m Generated: [35mcss/highlight.css[39m
+[32mINFO [39m Generated: [35m2022/07/17/新增测试/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html[39m
+[32mINFO [39m Generated: [35m2022/07/17/博客加密文档/index.html[39m
+[32mINFO [39m Generated: [35mimg/default.png[39m
+[32mINFO [39m Generated: [35m2021/11/12/用python写个颜值评分器筛选最美主播/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频/index.html[39m
+[32mINFO [39m 42 files generated in [36m2.67 s[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Deploying: [35mgit[39m
+[32mINFO [39m Clearing .deploy_git folder...
+[32mINFO [39m Copying files from public folder...
+[32mINFO [39m Copying files from extend dirs...
+warning: LF will be replaced by CRLF in css/fluid-extention.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/gitalk.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/hbe.style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight-dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/main.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/boot.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/code-unfold.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/color-schema.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/events.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/img-lazyload.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/leancloud.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/local-search.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/plugins.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in lib/hbe.js.
+The file will have its original line endings in your working directory
+[master 6436474] MuyanGit 的网站”更新“中······2022-07-22 22:19:25【https://PonyTown2020.github.io/ 】
+ 5 files changed, 5 insertions(+), 5 deletions(-)
+Branch 'master' set up to track remote branch 'master' from 'git@PonyTown2020:PonyTown2020/PonyTown2020.github.io.git'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   bab7deb..6436474  HEAD -> master
+[32mINFO [39m Deploy done: [35mgit[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Start backup: git
+warning: LF will be replaced by CRLF in 杂项/博客备份/2022-07-22log.txt.
+The file will have its original line endings in your working directory
+[master 5cdec95] MuyanGit 的网站”备份“中······2022-07-22 22:19:34【https://PonyTown2020.github.io/ 】
+ 1 file changed, 150 insertions(+)
+Branch 'master' set up to track remote branch 'backup' from 'github'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   62b88ea..5cdec95  master -> backup
+[32mINFO [39m Backup done: git
+MuyanGit博客备份
+结束运行备份命令——————————————
+Fri Jul 22 22:19:38 2022······备份结束中
+开始运行备份命令——————————————
+Fri Jul 22 23:18:07 2022······备份进行中
+[32mINFO [39m Validating config
+[32mINFO [39m Deleted database.
+[32mINFO [39m Deleted public folder.
+[32mINFO [39m Validating config
+[32mINFO [39m Start processing
+[32mINFO [39m hexo-blog-encrypt: encrypting "加密文档1" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "批量下载抖音单用户所有无水印视频" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m hexo-blog-encrypt: encrypting "用python写个颜值评分器筛选最美主播" based on the password configured in Front-matter with theme: default.
+[32mINFO [39m 
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+[32mINFO [39m Files loaded in [36m7.41 s[39m
+[32mINFO [39m neat the html: about/index.html [ 25.41% saved]
+[32mINFO [39m neat the html: 2022/07/17/博客加密文档/index.html [ 27.12% saved]
+[32mINFO [39m neat the html: 2022/07/17/新增测试/index.html [ 28.02% saved]
+[32mINFO [39m neat the html: 2021/11/12/用python写个颜值评分器筛选最美主播/index.html [ 8.10% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html [ 2.93% saved]
+[32mINFO [39m neat the html: 2021/10/20/批量下载抖音单用户所有无水印视频/index.html [ 2.89% saved]
+[32mINFO [39m neat the html: archives/index.html [ 24.36% saved]
+[32mINFO [39m neat the html: archives/2021/index.html [ 24.63% saved]
+[32mINFO [39m neat the html: archives/2021/10/index.html [ 25.04% saved]
+[32mINFO [39m neat the html: archives/2021/11/index.html [ 25.51% saved]
+[32mINFO [39m neat the html: archives/2022/index.html [ 25.55% saved]
+[32mINFO [39m neat the html: archives/2022/07/index.html [ 25.54% saved]
+[32mINFO [39m neat the html: categories/技术/index.html [ 24.29% saved]
+[32mINFO [39m neat the html: tags/加密/index.html [ 25.11% saved]
+[32mINFO [39m neat the html: index.html [ 27.22% saved]
+[32mINFO [39m neat the html: 404.html [ 25.35% saved]
+[32mINFO [39m neat the html: tags/index.html [ 25.79% saved]
+[32mINFO [39m neat the html: categories/index.html [ 25.52% saved]
+[32mINFO [39m neat the html: links/index.html [ 26.35% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\fluid-extention.styl [ 30.24% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\gitalk.css [ 15.44% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight.styl [ 0.08% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\main.styl [ 17.17% saved]
+[32mINFO [39m neat the css: G:\MuyanGitBlog\PonyTown2020\themes\fluid\source\css\highlight-dark.styl [ 0.16% saved]
+[32mINFO [39m Generated: [35marchives/index.html[39m
+[32mINFO [39m Generated: [35mabout/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/11/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/10/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/07/index.html[39m
+[32mINFO [39m Generated: [35marchives/2022/index.html[39m
+[32mINFO [39m Generated: [35mtags/index.html[39m
+[32mINFO [39m Generated: [35mlocal-search.xml[39m
+[32mINFO [39m Generated: [35mcategories/index.html[39m
+[32mINFO [39m Generated: [35mlinks/index.html[39m
+[32mINFO [39m Generated: [35marchives/2021/index.html[39m
+[32mINFO [39m Generated: [35mindex.html[39m
+[32mINFO [39m Generated: [35m404.html[39m
+[32mINFO [39m Generated: [35mimg/avatar.png[39m
+[32mINFO [39m Generated: [35mcss/hbe.style.css[39m
+[32mINFO [39m Generated: [35mxml/local-search.xml[39m
+[32mINFO [39m Generated: [35mimg/fluid.png[39m
+[32mINFO [39m Generated: [35mimg/loading.gif[39m
+[32mINFO [39m Generated: [35mimg/police_beian.png[39m
+[32mINFO [39m Generated: [35mcategories/技术/index.html[39m
+[32mINFO [39m Generated: [35mtags/加密/index.html[39m
+[32mINFO [39m Generated: [35mjs/boot.js[39m
+[32mINFO [39m Generated: [35mlib/hbe.js[39m
+[32mINFO [39m Generated: [35mjs/img-lazyload.js[39m
+[32mINFO [39m Generated: [35mjs/local-search.js[39m
+[32mINFO [39m Generated: [35mjs/code-unfold.js[39m
+[32mINFO [39m Generated: [35mjs/color-schema.js[39m
+[32mINFO [39m Generated: [35mjs/leancloud.js[39m
+[32mINFO [39m Generated: [35mjs/events.js[39m
+[32mINFO [39m Generated: [35mjs/utils.js[39m
+[32mINFO [39m Generated: [35mjs/plugins.js[39m
+[32mINFO [39m Generated: [35mcss/gitalk.css[39m
+[32mINFO [39m Generated: [35m2022/07/17/新增测试/index.html[39m
+[32mINFO [39m Generated: [35mcss/fluid-extention.css[39m
+[32mINFO [39m Generated: [35mcss/highlight.css[39m
+[32mINFO [39m Generated: [35mcss/main.css[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频 - 副本/index.html[39m
+[32mINFO [39m Generated: [35mcss/highlight-dark.css[39m
+[32mINFO [39m Generated: [35m2021/11/12/用python写个颜值评分器筛选最美主播/index.html[39m
+[32mINFO [39m Generated: [35m2021/10/20/批量下载抖音单用户所有无水印视频/index.html[39m
+[32mINFO [39m Generated: [35mimg/default.png[39m
+[32mINFO [39m Generated: [35m2022/07/17/博客加密文档/index.html[39m
+[32mINFO [39m 42 files generated in [36m2.85 s[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Deploying: [35mgit[39m
+[32mINFO [39m Clearing .deploy_git folder...
+[32mINFO [39m Copying files from public folder...
+[32mINFO [39m Copying files from extend dirs...
+warning: LF will be replaced by CRLF in css/fluid-extention.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/gitalk.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/hbe.style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight-dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/highlight.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/main.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/boot.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/code-unfold.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/color-schema.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/events.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/img-lazyload.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/leancloud.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/local-search.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/plugins.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/utils.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in lib/hbe.js.
+The file will have its original line endings in your working directory
+[master 021dc9e] MuyanGit 的网站”更新“中······2022-07-22 23:19:05【https://PonyTown2020.github.io/ 】
+ 5 files changed, 5 insertions(+), 5 deletions(-)
+Branch 'master' set up to track remote branch 'master' from 'git@PonyTown2020:PonyTown2020/PonyTown2020.github.io.git'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   6436474..021dc9e  HEAD -> master
+[32mINFO [39m Deploy done: [35mgit[39m
+[32mINFO [39m Validating config
+[32mINFO [39m Start backup: git
+warning: LF will be replaced by CRLF in 杂项/博客备份/2022-07-22log.txt.
+The file will have its original line endings in your working directory
+[master d232547] MuyanGit 的网站”备份“中······2022-07-22 23:19:42【https://PonyTown2020.github.io/ 】
+ 1 file changed, 150 insertions(+)
+Branch 'master' set up to track remote branch 'backup' from 'github'.
+To PonyTown2020:PonyTown2020/PonyTown2020.github.io.git
+   5cdec95..d232547  master -> backup
+[32mINFO [39m Backup done: git
+MuyanGit博客备份
+结束运行备份命令——————————————
+Fri Jul 22 23:19:48 2022······备份结束中

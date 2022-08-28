@@ -1,0 +1,23 @@
+G:
+cd G:/MuyanGitBlog/MuyanGit>>G:\MuyanGitBlog\MuyanGit\杂项\博客备份\log.txt
+echo 开始运行备份命令——————————————>>G:\MuyanGitBlog\MuyanGit\杂项\博客备份\log.txt
+echo `date`······备份进行中>>G:\MuyanGitBlog\MuyanGit\杂项\博客备份\log.txt
+hexo clean>>G:\MuyanGitBlog\MuyanGit\杂项\博客备份\log.txt
+hexo g>>G:\MuyanGitBlog\MuyanGit\杂项\博客备份\log.txt
+hexo d>>G:\MuyanGitBlog\MuyanGit\杂项\博客备份\log.txt
+hexo b>>G:\MuyanGitBlog\MuyanGit\杂项\博客备份\log.txt
+echo MuyanGit博客备份>>G:\MuyanGitBlog\MuyanGit\杂项\博客备份\log.txt
+echo 结束运行备份命令——————————————>>G:\MuyanGitBlog\MuyanGit\杂项\博客备份\log.txt
+echo `date`······备份结束中>>G:\MuyanGitBlog\MuyanGit\杂项\博客备份\log.txt
+
+
+
+
+
+
+
+
+
+
+
+
